@@ -1,0 +1,797 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "96b1d625-837b-4170-965e-4d25c7aa0891")
+	(paper "A4")
+	(title_block
+		(title "MoP - Power System")
+		(rev "4")
+		(company "ESE - Consestoga")
+	)
+	(lib_symbols)
+	(bus
+		(pts
+			(xy 20.32 153.67) (xy 193.04 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19c67de5-b0a4-4b54-9ea9-ca9c049a9de2")
+	)
+	(bus
+		(pts
+			(xy 30.48 111.76) (xy 67.31 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "236b8393-063b-4434-8541-a243acb15b56")
+	)
+	(wire
+		(pts
+			(xy 185.42 142.24) (xy 185.42 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "268d5b42-da69-48d5-982f-febe98361ce4")
+	)
+	(bus
+		(pts
+			(xy 20.32 68.58) (xy 58.42 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38ae96d5-3353-44ca-b910-e4074458840d")
+	)
+	(wire
+		(pts
+			(xy 250.19 113.03) (xy 257.81 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "399a2559-b1f0-43c4-a17a-c498ef8377db")
+	)
+	(bus
+		(pts
+			(xy 30.48 146.05) (xy 30.48 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c62c6e1-72dd-451a-9fce-1f5f176484ea")
+	)
+	(wire
+		(pts
+			(xy 257.81 113.03) (xy 257.81 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e68379e-1373-4f7e-9ef5-210e268c01ed")
+	)
+	(bus
+		(pts
+			(xy 55.88 50.8) (xy 58.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41e7531f-e757-4721-b1da-658747e65944")
+	)
+	(bus
+		(pts
+			(xy 187.96 146.05) (xy 30.48 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5822d049-d13b-493a-928c-b7e9445331db")
+	)
+	(wire
+		(pts
+			(xy 34.29 115.57) (xy 34.29 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60fc9fa3-5cf4-4274-a554-3dc99bec227e")
+	)
+	(wire
+		(pts
+			(xy 181.61 134.62) (xy 181.61 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6138f913-87db-4b02-b387-37664c1f6379")
+	)
+	(wire
+		(pts
+			(xy 67.31 115.57) (xy 34.29 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e39c45-2b8f-4c7d-80ff-669a10db6e27")
+	)
+	(wire
+		(pts
+			(xy 123.19 109.22) (xy 123.19 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "722739df-6f1f-4a8e-aaa1-12c64b527d19")
+	)
+	(bus
+		(pts
+			(xy 187.96 146.05) (xy 187.96 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "756c6355-ffd3-46fd-973f-553e5994a6c2")
+	)
+	(bus
+		(pts
+			(xy 187.96 119.38) (xy 208.28 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75895697-3e32-469e-b628-6271b4546e28")
+	)
+	(wire
+		(pts
+			(xy 30.48 107.95) (xy 67.31 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76014bed-214f-4e73-89bc-d5c8a64221ce")
+	)
+	(wire
+		(pts
+			(xy 118.11 109.22) (xy 123.19 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c71152f-a043-4124-8992-e67740694993")
+	)
+	(bus
+		(pts
+			(xy 20.32 68.58) (xy 20.32 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85d95e2f-ee01-40a8-90d2-d33b55409b2c")
+	)
+	(wire
+		(pts
+			(xy 30.48 96.52) (xy 30.48 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "973cfae4-8014-4526-b6a0-58c57b769761")
+	)
+	(wire
+		(pts
+			(xy 181.61 105.41) (xy 208.28 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9de6100-020b-4968-925b-a15624107e0f")
+	)
+	(bus
+		(pts
+			(xy 58.42 50.8) (xy 58.42 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b55a914f-fa33-44f5-9794-780f27197681")
+	)
+	(bus
+		(pts
+			(xy 193.04 153.67) (xy 193.04 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "befd48d2-9bfb-4228-a9ba-9920e6c5b16b")
+	)
+	(wire
+		(pts
+			(xy 185.42 111.76) (xy 208.28 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c541d0de-44ea-4041-b57e-ed2e9618373d")
+	)
+	(bus
+		(pts
+			(xy 193.04 132.08) (xy 208.28 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d12f9434-3a86-4b48-b531-9843aa67f7e5")
+	)
+	(wire
+		(pts
+			(xy 34.29 142.24) (xy 185.42 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dccb8406-ca87-4bd7-b1d5-9c3850824d85")
+	)
+	(wire
+		(pts
+			(xy 123.19 134.62) (xy 181.61 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb80fed5-aa64-4c87-a55d-49d20322122c")
+	)
+	(wire
+		(pts
+			(xy 257.81 96.52) (xy 30.48 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec3dc71f-b23d-43c0-81b7-d00d41d037e6")
+	)
+	(rectangle
+		(start 15.24 16.51)
+		(end 170.18 81.28)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1f23d2f8-f8a7-4f88-92f2-76ea8f9b3880)
+	)
+	(rectangle
+		(start 172.72 16.51)
+		(end 281.94 81.28)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5d742086-1ce7-405b-b46f-3ecb2d8b0499)
+	)
+	(rectangle
+		(start 172.72 83.82)
+		(end 281.94 160.02)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 87d020fb-6afc-431f-b561-2b8fc85d9048)
+	)
+	(rectangle
+		(start 15.24 83.82)
+		(end 170.18 160.02)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c06e76bc-1aba-41f5-9456-5ee601891e29)
+	)
+	(text "Battery"
+		(exclude_from_sim no)
+		(at 37.846 26.67 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "3c3db036-7d86-4292-9b1b-a6e8b67e3e34")
+	)
+	(text "Regulators"
+		(exclude_from_sim no)
+		(at 226.314 25.146 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "54cd7943-64a9-4471-a4b9-3eb2e6443ed5")
+	)
+	(text "BMS"
+		(exclude_from_sim no)
+		(at 228.346 92.964 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "5a827e05-b6da-4a12-ad41-0ba367180381")
+	)
+	(text "Notes: 	- GND on the charging system, charge- on the BMS correspond to the negative terminal on the battery.\n		- Each subsystem will be isolated with from the power supply with jumpers within their own schematics.\n			"
+		(exclude_from_sim no)
+		(at 14.986 173.228 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left)
+		)
+		(uuid "796f59e3-bcae-48b3-8a6d-85c44deafda1")
+	)
+	(text "Charging"
+		(exclude_from_sim no)
+		(at 91.186 89.408 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "c7871679-bfa9-448a-92ae-afa3672035c8")
+	)
+	(label "I2C{SCL SDA}"
+		(at 193.04 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ec9a66d-591c-4ed0-acdb-5b6488a1a6cc")
+	)
+	(label "Cell_Tap[2..0]"
+		(at 58.42 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8111388f-ffac-4701-a344-7ba1c5a67ffc")
+	)
+	(label "Cell_Tap[2..0]"
+		(at 193.04 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83d97c80-625c-4cea-a5a5-656084a48599")
+	)
+	(label "CHARGE_N"
+		(at 193.04 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ae809c40-5f19-4551-80f6-cc14d7dd67cb")
+	)
+	(label "R3V3_CHG"
+		(at 45.72 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c48f267b-086d-42b8-9035-74316da2d70e")
+	)
+	(label "CHARGE_P"
+		(at 193.04 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ec6341bd-a121-4ef9-ba7d-23973f60db7b")
+	)
+	(sheet
+		(at 208.28 101.6)
+		(size 41.91 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "32b67718-766c-4f22-bad6-bf99450d0210")
+		(property "Sheetname" "BMS"
+			(at 208.28 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MoP_BMS.kicad_sch"
+			(at 208.28 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Cell_Tap[2..0]" input
+			(at 208.28 132.08 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "23bdef65-a086-449c-9d27-72678f628523")
+		)
+		(pin "BATTP" input
+			(at 208.28 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b0520a1e-2e89-4fcb-8cde-bec69b534ec6")
+		)
+		(pin "ALERT" output
+			(at 250.19 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f45a6429-324a-457d-a7d9-e7eb49a842e9")
+		)
+		(pin "I2C{SCL SDA}" bidirectional
+			(at 208.28 119.38 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c747648f-cf71-405f-8e6f-46ca7d0c61d0")
+		)
+		(pin "R3V3O" output
+			(at 250.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d811b612-2f5c-429e-abbd-fc01e4ab93d8")
+		)
+		(pin "PACK-" output
+			(at 250.19 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5e53df25-fe99-43ec-993c-72a4ccf6bc4c")
+		)
+		(pin "PACK+" output
+			(at 250.19 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e66985df-0996-44fa-9b68-bcf5b940a2a1")
+		)
+		(pin "Charge-" input
+			(at 208.28 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9256897b-7b34-4e1b-bf98-d6b1c8c702d4")
+		)
+		(pin "Charge+" input
+			(at 208.28 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "48e81427-1fbc-42e1-948f-352512f67dd8")
+		)
+		(instances
+			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/4d057ef5-80c0-465a-b107-65508e007bbf"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 209.55 38.1)
+		(size 38.1 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "470fbc69-c681-42cb-a92a-137e298f26aa")
+		(property "Sheetname" "MoP_Power_Regulators"
+			(at 209.55 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MoP_Power_Regulators.kicad_sch"
+			(at 209.55 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field3" ""
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field4" ""
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/4d057ef5-80c0-465a-b107-65508e007bbf"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 33.02)
+		(size 35.56 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "821639c2-0ed4-4535-884b-487fd43d8ed6")
+		(property "Sheetname" "Battery"
+			(at 20.32 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MoP_Battery.kicad_sch"
+			(at 20.32 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Cell_Tap[2..0]" output
+			(at 55.88 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "583b2afb-5d34-476f-ac74-a812f4eedc9f")
+		)
+		(instances
+			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/4d057ef5-80c0-465a-b107-65508e007bbf"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 100.33)
+		(size 50.8 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e5907f32-472c-4482-9109-9908b225fa99")
+		(property "Sheetname" "MoP_Charging"
+			(at 67.31 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MoP_Charging.kicad_sch"
+			(at 67.31 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PSYS" input
+			(at 67.31 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0639c812-b16e-43ad-b115-fbe575c7c6ea")
+		)
+		(pin "ICHG" output
+			(at 118.11 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "65480403-e635-485f-9292-c8618ca04378")
+		)
+		(pin "V_{OUT}" output
+			(at 118.11 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "507443dd-5d50-40df-a542-2750bfda7dd0")
+		)
+		(pin "~{PROCHOT}" output
+			(at 118.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "70d854c7-f6fc-4e76-a06a-51e162035611")
+		)
+		(pin "R3V3I" input
+			(at 67.31 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "88ba5587-960c-4568-97fa-2638dc9d5520")
+		)
+		(pin "GND" passive
+			(at 67.31 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8b8cd6d8-fa35-48c4-84ef-b5366dd0dea1")
+		)
+		(pin "I2C{SCL SDA}" input
+			(at 67.31 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d967401d-44d4-4f6e-863a-2bf4eee7d9db")
+		)
+		(instances
+			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/4d057ef5-80c0-465a-b107-65508e007bbf"
+					(page "12")
+				)
+			)
+		)
+	)
+)
