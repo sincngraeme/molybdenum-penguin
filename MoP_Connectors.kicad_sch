@@ -4,5 +4,11 @@
 	(generator_version "8.0")
 	(uuid "a1e7963d-3eb9-4b08-b6c0-064e4f734117")
 	(paper "A4")
+	(title_block
+		(title "MoP - Connectors")
+		(rev "0")
+		(company "ESE - Conestoga")
+		(comment 1 "Nigel Sinclair")
+	)
 	(lib_symbols)
 )

@@ -584,12 +584,16 @@
       "Power"
     ],
     [
+      "470fbc69-c681-42cb-a92a-137e298f26aa",
+      "MoP_Power_Regulators"
+    ],
+    [
       "ae2123db-e8af-4be5-b4d9-fa1dc199daa4",
       "Gimble"
     ],
     [
-      "776889f8-2577-4d11-8ed0-968f1ffe11b5",
-      "MCU"
+      "35a0f4f1-9888-4ee1-94e1-e8485c96600c",
+      "DC_Motors"
     ],
     [
       "63f46eb8-407d-4e29-86cd-16d2149e2636",
@@ -600,40 +604,36 @@
       "CAN"
     ],
     [
-      "32b67718-766c-4f22-bad6-bf99450d0210",
-      "BMS"
-    ],
-    [
       "6a166328-b4f8-4957-9253-71d3eae4309f",
       "DAC_ADC"
-    ],
-    [
-      "35a0f4f1-9888-4ee1-94e1-e8485c96600c",
-      "DC_Motors"
-    ],
-    [
-      "821639c2-0ed4-4535-884b-487fd43d8ed6",
-      "Battery"
     ],
     [
       "8a4ac2ac-d73a-4dc3-ad5e-bbfa10e3315f",
       "Sensors"
     ],
     [
+      "d35d25c1-d5ff-4296-8cd7-8485bcc0a02c",
+      "MoP_LCD"
+    ],
+    [
+      "66fadfde-b926-4c46-9708-f37e1f1905e9",
+      "MoP_Connectors"
+    ],
+    [
+      "776889f8-2577-4d11-8ed0-968f1ffe11b5",
+      "MCU"
+    ],
+    [
+      "821639c2-0ed4-4535-884b-487fd43d8ed6",
+      "Battery"
+    ],
+    [
       "e5907f32-472c-4482-9109-9908b225fa99",
       "MoP_Charging"
     ],
     [
-      "66fadfde-b926-4c46-9708-f37e1f1905e9",
-      "MoP_Debug"
-    ],
-    [
-      "470fbc69-c681-42cb-a92a-137e298f26aa",
-      "MoP_Power_Regulators"
-    ],
-    [
-      "d35d25c1-d5ff-4296-8cd7-8485bcc0a02c",
-      "MoP_LCD"
+      "32b67718-766c-4f22-bad6-bf99450d0210",
+      "BMS"
     ]
   ],
   "text_variables": {}

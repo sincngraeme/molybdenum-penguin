@@ -5,4 +5,28 @@
 	(uuid "f7fb2b6c-aba9-41d8-bcc2-79d56e9866ad")
 	(paper "A4")
 	(lib_symbols)
+	(hierarchical_label "SPI{SCLK MISO MOSI CS}"
+		(shape bidirectional)
+		(at 29.21 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d34141c-dd26-4663-bdf4-827cf6dda6ab")
+	)
+	(hierarchical_label "I2C{SCL SDA}"
+		(shape bidirectional)
+		(at 29.096 34.176 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "997698de-cb04-426d-bd53-116fd98178a3")
+	)
 )
