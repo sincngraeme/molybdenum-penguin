@@ -3393,6 +3393,12 @@
 		(uuid "e4be5f93-891f-4819-ba45-2f575fa2bed1")
 	)
 	(junction
+		(at 25.4 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5f2da83-bf04-450c-a51e-19f7b4f6e863")
+	)
+	(junction
 		(at 115.57 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3462,7 +3468,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 39.37) (xy 48.26 39.37)
+			(xy 41.91 39.37) (xy 50.8 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4052,6 +4058,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 170.18) (xy 53.34 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e261084-028b-41cf-b29e-4d3b6238ee76")
+	)
+	(wire
+		(pts
 			(xy 88.9 53.34) (xy 88.9 55.88)
 		)
 		(stroke
@@ -4069,6 +4085,16 @@
 			(type default)
 		)
 		(uuid "4e867117-1727-462e-b4e9-e9555e3454cd")
+	)
+	(wire
+		(pts
+			(xy 25.4 170.18) (xy 25.4 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ed14168-2115-4682-9a30-c4d7339e0051")
 	)
 	(wire
 		(pts
@@ -5092,16 +5118,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 170.18) (xy 53.34 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db27e111-497e-4ba6-b3c0-db7cbc6bab35")
-	)
-	(wire
-		(pts
 			(xy 195.58 148.59) (xy 204.47 148.59)
 		)
 		(stroke
@@ -5392,7 +5408,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 167.64) (xy 25.4 184.15)
+			(xy 25.4 167.64) (xy 25.4 170.18)
 		)
 		(stroke
 			(width 0)
@@ -6207,17 +6223,6 @@
 		)
 		(uuid "9a7567e1-5245-422a-8868-c8b9930f3cfc")
 	)
-	(label "BAT_GND"
-		(at 41.91 170.18 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "abf0e148-e69f-437d-954e-a604afa10478")
-	)
 	(label "CP_EN"
 		(at 276.86 53.34 180)
 		(fields_autoplaced yes)
@@ -6284,8 +6289,8 @@
 		)
 		(uuid "c8e2cf16-c28f-4613-a7a2-87bc9dc1275d")
 	)
-	(label "BAT-"
-		(at 48.26 39.37 180)
+	(label "BAT_GND"
+		(at 50.8 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6416,8 +6421,8 @@
 		)
 		(uuid "efda1862-a29f-4ed5-a78a-14a69561f1eb")
 	)
-	(label "BAT-"
-		(at 38.1 184.15 0)
+	(label "BAT_GND"
+		(at 34.29 184.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font

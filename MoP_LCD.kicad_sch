@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "MoP - LCD")
-		(rev "0")
+		(rev "1")
 		(company "ESE - Conestoga")
 		(comment 1 "Fergus Page")
 		(comment 2 "Nigel Sinclair")

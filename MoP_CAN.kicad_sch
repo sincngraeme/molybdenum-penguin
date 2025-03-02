@@ -2738,14 +2738,14 @@
 	(symbol
 		(lib_id "74xGxx:74LVC2G14")
 		(at 104.14 123.19 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "684fa784-a11a-4930-8adc-d97d448fd616")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 102.87 134.62 0)
 			(effects
 				(font
@@ -2809,8 +2809,8 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
-					(reference "U1")
-					(unit 1)
+					(reference "U2")
+					(unit 2)
 				)
 			)
 		)
@@ -3197,7 +3197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm"
 			(at 151.13 85.09 0)
 			(effects
 				(font
