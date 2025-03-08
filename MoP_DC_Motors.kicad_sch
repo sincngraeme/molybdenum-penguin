@@ -3139,7 +3139,7 @@
 		)
 		(uuid d9cbc0f5-ef7e-4d2e-9f29-eabb68fc8666)
 	)
-	(text_box "Note: 	The DC motors have position sensors for fine-grained control of each motors' speeds. These work by using LED's and Light sensors."
+	(text_box "Note: 	The DC motors have position sensors for fine-grained control of each motors' speeds. These work by using \n		LED's and Light sensors.\n\n		The L293D is a DIP-16 package that is installed via socket"
 		(exclude_from_sim no)
 		(at 156.21 123.19 0)
 		(size 121.92 44.45)
@@ -3375,7 +3375,7 @@
 		)
 		(uuid "c60d1684-be3d-4a14-bc8c-a154f7117cd7")
 	)
-	(label "VBATT"
+	(label "VS"
 		(at 207.01 41.91 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3487,7 +3487,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2371efae-e387-4dd6-bccb-3fe7486e54d3")
-		(property "Reference" "R7"
+		(property "Reference" "R502"
 			(at 52.07 85.0899 0)
 			(effects
 				(font
@@ -3541,7 +3541,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R7")
+					(reference "R502")
 					(unit 1)
 				)
 			)
@@ -3557,7 +3557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2641ebe9-b15e-4730-bd8d-2f25a67c96bf")
-		(property "Reference" "C6"
+		(property "Reference" "C502"
 			(at 53.34 106.6799 0)
 			(effects
 				(font
@@ -3611,7 +3611,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C6")
+					(reference "C502")
 					(unit 1)
 				)
 			)
@@ -3627,7 +3627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "340c6371-327e-496c-8db7-b5a92a931425")
-		(property "Reference" "R10"
+		(property "Reference" "R503"
 			(at 66.04 91.4399 0)
 			(effects
 				(font
@@ -3681,7 +3681,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R10")
+					(reference "R503")
 					(unit 1)
 				)
 			)
@@ -3696,7 +3696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38a80314-a610-4805-a510-ea188829aac3")
-		(property "Reference" "U5"
+		(property "Reference" "U501"
 			(at 107.95 38.1 0)
 			(effects
 				(font
@@ -3760,7 +3760,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "U5")
+					(reference "U501")
 					(unit 3)
 				)
 			)
@@ -3772,10 +3772,10 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "4b5dc885-5d61-4e97-b58c-667422c1228b")
-		(property "Reference" "R5"
+		(property "Reference" "R501"
 			(at 53.34 45.72 90)
 			(effects
 				(font
@@ -3791,7 +3791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 53.34 44.958 90)
 			(effects
 				(font
@@ -3827,7 +3827,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R5")
+					(reference "R501")
 					(unit 1)
 				)
 			)
@@ -3843,7 +3843,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5634b1a6-beb3-4457-872c-4fd7d683a1b6")
-		(property "Reference" "U5"
+		(property "Reference" "U501"
 			(at 101.6 91.44 0)
 			(effects
 				(font
@@ -3887,27 +3887,27 @@
 			)
 		)
 		(pin "2"
-			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b120")
+			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b121")
 		)
 		(pin "5"
-			(uuid "c3946967-4d87-4468-8d73-ff3d5d3600e1")
+			(uuid "c3946967-4d87-4468-8d73-ff3d5d3600e2")
 		)
 		(pin "1"
 			(uuid "cf85b589-926e-41b9-9191-7ba97ed0f460")
 		)
 		(pin "3"
-			(uuid "8efae366-0681-4792-be2d-ee5c8187e363")
+			(uuid "8efae366-0681-4792-be2d-ee5c8187e364")
 		)
 		(pin "6"
 			(uuid "29191140-33b4-4d1c-9972-e3d97ab7991a")
 		)
 		(pin "4"
-			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55705")
+			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55706")
 		)
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "U5")
+					(reference "U501")
 					(unit 1)
 				)
 			)
@@ -3989,7 +3989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a3efa3b-ceb5-420f-b383-2de6e85b93f9")
-		(property "Reference" "C5"
+		(property "Reference" "C505"
 			(at 54.61 170.1799 0)
 			(effects
 				(font
@@ -4007,7 +4007,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 51.7652 175.26 0)
 			(effects
 				(font
@@ -4043,7 +4043,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C5")
+					(reference "C505")
 					(unit 1)
 				)
 			)
@@ -4059,7 +4059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77b67374-da23-4333-be7d-9dc35ceb9871")
-		(property "Reference" "M3"
+		(property "Reference" "J503"
 			(at 256.54 63.4999 0)
 			(effects
 				(font
@@ -4077,7 +4077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 254 63.5 0)
 			(effects
 				(font
@@ -4113,7 +4113,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "M3")
+					(reference "J503")
 					(unit 1)
 				)
 			)
@@ -4129,7 +4129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "816ebe7d-5ad1-425a-b374-92ba42672d85")
-		(property "Reference" "JP4"
+		(property "Reference" "JP502"
 			(at 200.66 39.37 0)
 			(effects
 				(font
@@ -4146,7 +4146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 200.66 41.91 0)
 			(effects
 				(font
@@ -4182,7 +4182,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "JP4")
+					(reference "JP502")
 					(unit 1)
 				)
 			)
@@ -4198,7 +4198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87593513-0971-4e25-9cd7-c0d5208a10dc")
-		(property "Reference" "M4"
+		(property "Reference" "J504"
 			(at 256.54 78.7399 0)
 			(effects
 				(font
@@ -4216,7 +4216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 254 78.74 0)
 			(effects
 				(font
@@ -4252,7 +4252,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "M4")
+					(reference "J504")
 					(unit 1)
 				)
 			)
@@ -4268,7 +4268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91918dbb-ee51-421e-b160-ff258d822f60")
-		(property "Reference" "C8"
+		(property "Reference" "C501"
 			(at 86.36 91.4399 0)
 			(effects
 				(font
@@ -4322,7 +4322,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C8")
+					(reference "C501")
 					(unit 1)
 				)
 			)
@@ -4404,7 +4404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d209822-0359-4e28-bed5-1ea7b5670c42")
-		(property "Reference" "U5"
+		(property "Reference" "U501"
 			(at 102.87 154.94 0)
 			(effects
 				(font
@@ -4448,27 +4448,27 @@
 			)
 		)
 		(pin "2"
-			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b120")
+			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b122")
 		)
 		(pin "5"
-			(uuid "c3946967-4d87-4468-8d73-ff3d5d3600e1")
+			(uuid "c3946967-4d87-4468-8d73-ff3d5d3600e3")
 		)
 		(pin "1"
 			(uuid "d042550c-ce65-425d-8774-7c44382b89ee")
 		)
 		(pin "3"
-			(uuid "8efae366-0681-4792-be2d-ee5c8187e363")
+			(uuid "8efae366-0681-4792-be2d-ee5c8187e365")
 		)
 		(pin "6"
 			(uuid "576c361a-2abf-491e-bf6a-91ab0d27f78f")
 		)
 		(pin "4"
-			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55705")
+			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55707")
 		)
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "U5")
+					(reference "U501")
 					(unit 2)
 				)
 			)
@@ -4484,7 +4484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a540decc-7fd0-4678-bd09-f516a2780f96")
-		(property "Reference" "R9"
+		(property "Reference" "R504"
 			(at 53.34 148.5899 0)
 			(effects
 				(font
@@ -4502,7 +4502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 49.022 149.86 90)
 			(effects
 				(font
@@ -4538,7 +4538,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R9")
+					(reference "R504")
 					(unit 1)
 				)
 			)
@@ -4554,7 +4554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a93fbc92-c952-4365-9b89-8583b5472569")
-		(property "Reference" "C10"
+		(property "Reference" "C504"
 			(at 87.63 154.9399 0)
 			(effects
 				(font
@@ -4572,7 +4572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 84.7852 160.02 0)
 			(effects
 				(font
@@ -4608,7 +4608,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C10")
+					(reference "C504")
 					(unit 1)
 				)
 			)
@@ -4624,7 +4624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4228901-fb4a-46bb-a63e-6a19197b0ab8")
-		(property "Reference" "J19"
+		(property "Reference" "J502"
 			(at 27.94 162.5599 0)
 			(effects
 				(font
@@ -4642,7 +4642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 30.48 163.83 0)
 			(effects
 				(font
@@ -4681,7 +4681,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "J19")
+					(reference "J502")
 					(unit 1)
 				)
 			)
@@ -4781,7 +4781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 217.17 97.79 0)
 			(effects
 				(font
@@ -4876,7 +4876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf0d0293-512a-435b-a349-3adcd393464c")
-		(property "Reference" "R11"
+		(property "Reference" "R505"
 			(at 67.31 154.9399 0)
 			(effects
 				(font
@@ -4894,7 +4894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 62.992 156.21 90)
 			(effects
 				(font
@@ -4930,7 +4930,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R11")
+					(reference "R505")
 					(unit 1)
 				)
 			)
@@ -4946,7 +4946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf6ade4d-f082-49e5-80af-d3366fbb3c6d")
-		(property "Reference" "JP6"
+		(property "Reference" "JP501"
 			(at 53.34 35.56 0)
 			(effects
 				(font
@@ -4963,7 +4963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 53.34 38.1 0)
 			(effects
 				(font
@@ -4999,7 +4999,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "JP6")
+					(reference "JP501")
 					(unit 1)
 				)
 			)
@@ -5077,11 +5077,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "c4d9074c-42cb-4998-87bf-48ead2dcd0c8")
-		(property "Reference" "R13"
-			(at 200.66 49.53 90)
+		(property "Reference" "R506"
+			(at 200.66 44.196 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5089,14 +5089,14 @@
 			)
 		)
 		(property "Value" "0"
-			(at 200.66 51.816 90)
+			(at 200.66 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 200.66 48.768 90)
 			(effects
 				(font
@@ -5132,7 +5132,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R13")
+					(reference "R506")
 					(unit 1)
 				)
 			)
@@ -5148,7 +5148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c520c055-1749-48f2-a579-3cedc02cf2c9")
-		(property "Reference" "C7"
+		(property "Reference" "C503"
 			(at 77.47 106.6799 0)
 			(effects
 				(font
@@ -5202,7 +5202,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C7")
+					(reference "C503")
 					(unit 1)
 				)
 			)
@@ -5284,7 +5284,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce11d85a-eabd-40e5-a160-6b761dce5a7b")
-		(property "Reference" "J18"
+		(property "Reference" "J501"
 			(at 26.67 99.0599 0)
 			(effects
 				(font
@@ -5302,7 +5302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 29.21 100.33 0)
 			(effects
 				(font
@@ -5341,7 +5341,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "J18")
+					(reference "J501")
 					(unit 1)
 				)
 			)
@@ -5357,7 +5357,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd5b0766-3955-4651-96d8-367a605e2f13")
-		(property "Reference" "C9"
+		(property "Reference" "C506"
 			(at 78.74 170.1799 0)
 			(effects
 				(font
@@ -5375,7 +5375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 75.8952 175.26 0)
 			(effects
 				(font
@@ -5411,7 +5411,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C9")
+					(reference "C506")
 					(unit 1)
 				)
 			)

@@ -3472,7 +3472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09c15af8-7351-448c-8607-51d56961132a")
-		(property "Reference" "U9"
+		(property "Reference" "U402"
 			(at 253.492 147.066 0)
 			(effects
 				(font
@@ -3488,7 +3488,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 264.16 149.86 0)
 			(effects
 				(font
@@ -3536,7 +3536,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "U9")
+					(reference "U402")
 					(unit 3)
 				)
 			)
@@ -3552,7 +3552,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12b24ac6-adc3-4878-a717-08ebc32b707a")
-		(property "Reference" "C17"
+		(property "Reference" "C401"
 			(at 217.17 66.0399 0)
 			(effects
 				(font
@@ -3606,7 +3606,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "C17")
+					(reference "C401")
 					(unit 1)
 				)
 			)
@@ -3621,7 +3621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2836869b-b62c-4247-b453-a0059da4e7fb")
-		(property "Reference" "R15"
+		(property "Reference" "R402"
 			(at 199.898 54.61 0)
 			(effects
 				(font
@@ -3639,7 +3639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.342 54.61 90)
 			(effects
 				(font
@@ -3675,7 +3675,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "R15")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -3691,7 +3691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f0aefcb-c4ff-43bb-a1d8-8ad8050ea422")
-		(property "Reference" "U1"
+		(property "Reference" "U402"
 			(at 240.03 49.53 0)
 			(effects
 				(font
@@ -3707,7 +3707,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 241.3 60.96 0)
 			(effects
 				(font
@@ -3741,21 +3741,21 @@
 			(uuid "c3946967-4d87-4468-8d73-ff3d5d3600e1")
 		)
 		(pin "1"
-			(uuid "e4d267f8-4b6d-4cc2-a122-70c1a6569df8")
+			(uuid "e4d267f8-4b6d-4cc2-a122-70c1a6569df9")
 		)
 		(pin "3"
-			(uuid "8efae366-0681-4792-be2d-ee5c8187e363")
+			(uuid "8efae366-0681-4792-be2d-ee5c8187e364")
 		)
 		(pin "6"
-			(uuid "4845bc51-741f-47b7-b5b6-d3efa361ffea")
+			(uuid "4845bc51-741f-47b7-b5b6-d3efa361ffeb")
 		)
 		(pin "4"
-			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55705")
+			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55706")
 		)
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "U1")
+					(reference "U402")
 					(unit 1)
 				)
 			)
@@ -3771,7 +3771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f8120b3-6a1b-405d-acf0-13421b12b0cb")
-		(property "Reference" "U9"
+		(property "Reference" "U402"
 			(at 237.49 109.22 0)
 			(effects
 				(font
@@ -3787,7 +3787,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 238.76 120.65 0)
 			(effects
 				(font
@@ -3824,18 +3824,18 @@
 			(uuid "52e21d28-3f85-4fe2-a0b6-86e972f5c11e")
 		)
 		(pin "3"
-			(uuid "8efae366-0681-4792-be2d-ee5c8187e364")
+			(uuid "8efae366-0681-4792-be2d-ee5c8187e365")
 		)
 		(pin "6"
 			(uuid "fb6732c6-c42b-4d25-a201-839541b27170")
 		)
 		(pin "4"
-			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55706")
+			(uuid "9cf2cb16-6a70-4649-bc44-6b6f0ef55707")
 		)
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "U9")
+					(reference "U402")
 					(unit 2)
 				)
 			)
@@ -3850,7 +3850,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34894697-5fd6-4146-8b81-3a83cb09368a")
-		(property "Reference" "J7"
+		(property "Reference" "J405"
 			(at 164.846 167.132 0)
 			(effects
 				(font
@@ -3905,7 +3905,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "J7")
+					(reference "J405")
 					(unit 1)
 				)
 			)
@@ -3921,7 +3921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bb4cbd0-1693-4ff0-8110-a17b5d4792ba")
-		(property "Reference" "C36"
+		(property "Reference" "J403"
 			(at 146.05 76.1999 0)
 			(effects
 				(font
@@ -3975,7 +3975,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "C36")
+					(reference "J403")
 					(unit 1)
 				)
 			)
@@ -3991,7 +3991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c86b976-ad78-4fb8-81a0-9ac1d2601f5a")
-		(property "Reference" "C18"
+		(property "Reference" "C402"
 			(at 214.63 125.7299 0)
 			(effects
 				(font
@@ -4009,7 +4009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 211.7852 130.81 0)
 			(effects
 				(font
@@ -4045,7 +4045,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "C18")
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -4192,7 +4192,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5707818a-60d6-4106-83f1-b56730ad501f")
-		(property "Reference" "J1"
+		(property "Reference" "J404"
 			(at 164.846 144.272 0)
 			(effects
 				(font
@@ -4208,7 +4208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 165.1 149.86 0)
 			(effects
 				(font
@@ -4247,7 +4247,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "J1")
+					(reference "J404")
 					(unit 1)
 				)
 			)
@@ -4280,7 +4280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
+		(property "Footprint" "Package_SO:SO-20_12.8x7.5mm_P1.27mm"
 			(at 104.14 95.25 0)
 			(effects
 				(font
@@ -4374,7 +4374,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66c63595-f48b-4244-a5a1-b2a49e3dd650")
-		(property "Reference" "R17"
+		(property "Reference" "R404"
 			(at 197.358 114.3 0)
 			(effects
 				(font
@@ -4392,7 +4392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 193.802 114.3 90)
 			(effects
 				(font
@@ -4428,7 +4428,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "R17")
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -4443,7 +4443,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6b247865-d251-4846-abe4-62357853e9d7")
-		(property "Reference" "J6"
+		(property "Reference" "J401"
 			(at 186.69 57.658 0)
 			(effects
 				(font
@@ -4498,7 +4498,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "J6")
+					(reference "J401")
 					(unit 1)
 				)
 			)
@@ -4645,7 +4645,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4ddb1cf-607b-49b0-a633-c8197c2abbd7")
-		(property "Reference" "R16"
+		(property "Reference" "R403"
 			(at 205.74 58.42 90)
 			(effects
 				(font
@@ -4661,7 +4661,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 205.74 62.738 90)
 			(effects
 				(font
@@ -4697,7 +4697,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "R16")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -4845,7 +4845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbc30bbd-d41b-41c1-8269-83eae1106399")
-		(property "Reference" "C1"
+		(property "Reference" "J402"
 			(at 146.05 60.9599 0)
 			(effects
 				(font
@@ -4899,7 +4899,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "C1")
+					(reference "J402")
 					(unit 1)
 				)
 			)
@@ -4914,7 +4914,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c8671fe1-ee0b-4ccc-8e8c-c2aaca2b1156")
-		(property "Reference" "R18"
+		(property "Reference" "R405"
 			(at 203.2 118.11 90)
 			(effects
 				(font
@@ -4930,7 +4930,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 203.2 122.428 90)
 			(effects
 				(font
@@ -4966,7 +4966,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "R18")
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -4978,8 +4978,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "cb1db59a-cd93-4a96-8e17-4a4c3ccbdab2")
 		(property "Reference" "R401"
 			(at 87.376 44.704 90)
@@ -4997,7 +4997,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 48.768 90)
 			(effects
 				(font
@@ -5066,7 +5066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 87.63 41.91 0)
 			(effects
 				(font
@@ -5184,7 +5184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f90b9a49-8081-4729-89f5-ba9a225fb88d")
-		(property "Reference" "J5"
+		(property "Reference" "J405"
 			(at 184.15 117.348 0)
 			(effects
 				(font
@@ -5239,7 +5239,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/ae2123db-e8af-4be5-b4d9-fa1dc199daa4"
-					(reference "J5")
+					(reference "J405")
 					(unit 1)
 				)
 			)

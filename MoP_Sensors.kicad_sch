@@ -1240,7 +1240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c9f1b9e-3885-489e-91ae-15905e2d3405")
-		(property "Reference" "J24"
+		(property "Reference" "J901"
 			(at 71.12 45.7199 0)
 			(effects
 				(font
@@ -1258,7 +1258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 68.58 45.72 0)
 			(effects
 				(font
@@ -1300,7 +1300,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/8a4ac2ac-d73a-4dc3-ad5e-bbfa10e3315f"
-					(reference "J24")
+					(reference "J901")
 					(unit 1)
 				)
 			)
@@ -1316,7 +1316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "471b6619-0b0f-4383-a835-027f07da1ecf")
-		(property "Reference" "J25"
+		(property "Reference" "J902"
 			(at 142.24 45.7199 0)
 			(effects
 				(font
@@ -1334,7 +1334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 139.7 45.72 0)
 			(effects
 				(font
@@ -1376,7 +1376,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/8a4ac2ac-d73a-4dc3-ad5e-bbfa10e3315f"
-					(reference "J25")
+					(reference "J902")
 					(unit 1)
 				)
 			)
@@ -1392,7 +1392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56d24357-927f-4c80-a64f-e98dbef0434b")
-		(property "Reference" "J23"
+		(property "Reference" "J903"
 			(at 237.49 45.7199 0)
 			(effects
 				(font
@@ -1410,7 +1410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 234.95 45.72 0)
 			(effects
 				(font
@@ -1452,7 +1452,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/8a4ac2ac-d73a-4dc3-ad5e-bbfa10e3315f"
-					(reference "J23")
+					(reference "J903")
 					(unit 1)
 				)
 			)
@@ -1798,7 +1798,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fce28fef-dc50-422a-8d04-99ee6b757527")
-		(property "Reference" "TC1"
+		(property "Reference" "TC901"
 			(at 59.69 111.7599 0)
 			(effects
 				(font
@@ -1852,7 +1852,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/8a4ac2ac-d73a-4dc3-ad5e-bbfa10e3315f"
-					(reference "TC1")
+					(reference "TC901")
 					(unit 1)
 				)
 			)

@@ -3052,8 +3052,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "0b11bbe7-4d08-4200-97a0-8d6dbe9c70b6")
 		(property "Reference" "R306"
 			(at 157.734 87.376 90)
@@ -3541,7 +3541,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65dc84ae-6eb5-40d5-9ca8-1cdb9971f3f0")
-		(property "Reference" "JP2"
+		(property "Reference" "JP301"
 			(at 157.48 72.39 0)
 			(effects
 				(font
@@ -3558,7 +3558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 157.48 74.93 0)
 			(effects
 				(font
@@ -3594,7 +3594,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/4d057ef5-80c0-465a-b107-65508e007bbf/470fbc69-c681-42cb-a92a-137e298f26aa"
-					(reference "JP2")
+					(reference "JP301")
 					(unit 1)
 				)
 			)
@@ -3952,7 +3952,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a01d1583-7480-4e91-9bbc-81a0f553f1b3")
-		(property "Reference" "JP14"
+		(property "Reference" "JP302"
 			(at 231.14 72.39 0)
 			(effects
 				(font
@@ -4005,7 +4005,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/4d057ef5-80c0-465a-b107-65508e007bbf/470fbc69-c681-42cb-a92a-137e298f26aa"
-					(reference "JP14")
+					(reference "JP302")
 					(unit 1)
 				)
 			)
@@ -4149,8 +4149,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "c63823da-babb-4bcd-952a-75b921c5f751")
 		(property "Reference" "R307"
 			(at 231.394 87.376 90)
