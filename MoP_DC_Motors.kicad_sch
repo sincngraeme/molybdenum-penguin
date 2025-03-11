@@ -3483,11 +3483,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2371efae-e387-4dd6-bccb-3fe7486e54d3")
-		(property "Reference" "R502"
+		(property "Reference" "R402"
 			(at 52.07 85.0899 0)
 			(effects
 				(font
@@ -3532,6 +3532,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "868dd21f-3492-43b5-8e42-4aba78c84f1e")
 		)
@@ -3541,7 +3595,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R502")
+					(reference "R402")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -3553,11 +3613,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2641ebe9-b15e-4730-bd8d-2f25a67c96bf")
-		(property "Reference" "C502"
+		(property "Reference" "C402"
 			(at 53.34 106.6799 0)
 			(effects
 				(font
@@ -3602,6 +3662,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb250a6f-5918-4059-bca3-9a8342cd84ef")
 		)
@@ -3611,7 +3725,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C502")
+					(reference "C402")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -3623,11 +3743,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "340c6371-327e-496c-8db7-b5a92a931425")
-		(property "Reference" "R503"
+		(property "Reference" "R403"
 			(at 66.04 91.4399 0)
 			(effects
 				(font
@@ -3672,6 +3792,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "498caf5d-5389-4f6e-a169-4d2c892b0365")
 		)
@@ -3681,7 +3855,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R503")
+					(reference "R403")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -3693,10 +3873,10 @@
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "38a80314-a610-4805-a510-ea188829aac3")
-		(property "Reference" "U501"
+		(property "Reference" "U401"
 			(at 107.95 38.1 0)
 			(effects
 				(font
@@ -3739,6 +3919,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b120")
 		)
@@ -3760,7 +3994,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "U501")
+					(reference "U401")
+					(unit 3)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "U401")
 					(unit 3)
 				)
 			)
@@ -3775,7 +4015,7 @@
 		(on_board no)
 		(dnp yes)
 		(uuid "4b5dc885-5d61-4e97-b58c-667422c1228b")
-		(property "Reference" "R501"
+		(property "Reference" "R401"
 			(at 53.34 45.72 90)
 			(effects
 				(font
@@ -3818,6 +4058,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 53.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 53.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 53.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 53.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 53.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 53.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff205979-ded8-4112-8103-a865b23c0db2")
 		)
@@ -3827,7 +4121,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R501")
+					(reference "R401")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -3839,11 +4139,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5634b1a6-beb3-4457-872c-4fd7d683a1b6")
-		(property "Reference" "U501"
+		(property "Reference" "U401"
 			(at 101.6 91.44 0)
 			(effects
 				(font
@@ -3886,6 +4186,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b121")
 		)
@@ -3907,7 +4261,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "U501")
+					(reference "U401")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -3977,6 +4337,12 @@
 					(unit 1)
 				)
 			)
+			(project ""
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3985,11 +4351,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5a3efa3b-ceb5-420f-b383-2de6e85b93f9")
-		(property "Reference" "C505"
+		(property "Reference" "C404"
 			(at 54.61 170.1799 0)
 			(effects
 				(font
@@ -4034,6 +4400,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7c5cbf60-2792-4487-a7d8-88d7ec202f18")
 		)
@@ -4043,7 +4463,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C505")
+					(reference "C404")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "C404")
 					(unit 1)
 				)
 			)
@@ -4059,7 +4485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77b67374-da23-4333-be7d-9dc35ceb9871")
-		(property "Reference" "J503"
+		(property "Reference" "J403"
 			(at 256.54 63.4999 0)
 			(effects
 				(font
@@ -4104,6 +4530,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 254 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 254 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 254 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 254 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 254 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 254 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2bff658-b1be-441c-aa9d-eb31a618926d")
 		)
@@ -4113,7 +4593,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "J503")
+					(reference "J403")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "J403")
 					(unit 1)
 				)
 			)
@@ -4129,7 +4615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "816ebe7d-5ad1-425a-b374-92ba42672d85")
-		(property "Reference" "JP502"
+		(property "Reference" "JP402"
 			(at 200.66 39.37 0)
 			(effects
 				(font
@@ -4173,6 +4659,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1d8c2c83-da57-4f8f-9784-d291de36dde1")
 		)
@@ -4182,7 +4722,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "JP502")
+					(reference "JP402")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "JP402")
 					(unit 1)
 				)
 			)
@@ -4198,7 +4744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87593513-0971-4e25-9cd7-c0d5208a10dc")
-		(property "Reference" "J504"
+		(property "Reference" "J404"
 			(at 256.54 78.7399 0)
 			(effects
 				(font
@@ -4243,6 +4789,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca248755-c41c-4e52-9261-717ee216d4c0")
 		)
@@ -4252,7 +4852,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "J504")
+					(reference "J404")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "J404")
 					(unit 1)
 				)
 			)
@@ -4264,11 +4870,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "91918dbb-ee51-421e-b160-ff258d822f60")
-		(property "Reference" "C501"
+		(property "Reference" "C401"
 			(at 86.36 91.4399 0)
 			(effects
 				(font
@@ -4313,6 +4919,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1efbbc71-ab8e-4102-bf01-cc3d28158f24")
 		)
@@ -4322,7 +4982,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C501")
+					(reference "C401")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "C401")
 					(unit 1)
 				)
 			)
@@ -4334,8 +5000,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9c0a5c52-94ea-433a-9ea6-536460e381df")
 		(property "Reference" "#PWR047"
@@ -4392,6 +5058,12 @@
 					(unit 1)
 				)
 			)
+			(project ""
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4400,11 +5072,11 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9d209822-0359-4e28-bed5-1ea7b5670c42")
-		(property "Reference" "U501"
+		(property "Reference" "U401"
 			(at 102.87 154.94 0)
 			(effects
 				(font
@@ -4447,6 +5119,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 104.14 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 104.14 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 104.14 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 104.14 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 104.14 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 104.14 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59e2a8f0-71ec-4444-895e-6b489c90b122")
 		)
@@ -4468,7 +5194,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "U501")
+					(reference "U401")
+					(unit 2)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "U401")
 					(unit 2)
 				)
 			)
@@ -4480,11 +5212,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a540decc-7fd0-4678-bd09-f516a2780f96")
-		(property "Reference" "R504"
+		(property "Reference" "R404"
 			(at 53.34 148.5899 0)
 			(effects
 				(font
@@ -4529,6 +5261,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9cc12e9e-23cc-4273-b75e-72debd35a136")
 		)
@@ -4538,7 +5324,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R504")
+					(reference "R404")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -4550,11 +5342,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a93fbc92-c952-4365-9b89-8583b5472569")
-		(property "Reference" "C504"
+		(property "Reference" "C404"
 			(at 87.63 154.9399 0)
 			(effects
 				(font
@@ -4599,6 +5391,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2fa0068c-f932-4f94-bce1-d980bde2ee9d")
 		)
@@ -4608,7 +5454,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C504")
+					(reference "C404")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "C404")
 					(unit 1)
 				)
 			)
@@ -4621,10 +5473,10 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "b4228901-fb4a-46bb-a63e-6a19197b0ab8")
-		(property "Reference" "J502"
+		(property "Reference" "J402"
 			(at 27.94 162.5599 0)
 			(effects
 				(font
@@ -4669,6 +5521,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a62ac719-57ef-40ff-ad20-7acbae579024")
 		)
@@ -4681,7 +5587,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "J502")
+					(reference "J402")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "J402")
 					(unit 1)
 				)
 			)
@@ -4693,8 +5605,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b7cac1eb-16af-4e55-b3b2-3bba8c0ea02e")
 		(property "Reference" "#PWR010"
@@ -4751,6 +5663,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4801,6 +5719,60 @@
 			)
 		)
 		(property "Description" "Quadruple Half-H Drivers"
+			(at 210.82 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey#" ""
+			(at 210.82 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 210.82 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 210.82 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 210.82 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 210.82 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 210.82 78.74 0)
 			(effects
 				(font
@@ -4864,6 +5836,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "U4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4872,11 +5850,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bf0d0293-512a-435b-a349-3adcd393464c")
-		(property "Reference" "R505"
+		(property "Reference" "R405"
 			(at 67.31 154.9399 0)
 			(effects
 				(font
@@ -4921,6 +5899,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 64.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 64.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 64.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 64.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 64.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 64.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63929864-b344-4d4a-97f4-caaea0342c0b")
 		)
@@ -4930,7 +5962,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R505")
+					(reference "R405")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -4946,7 +5984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf6ade4d-f082-49e5-80af-d3366fbb3c6d")
-		(property "Reference" "JP501"
+		(property "Reference" "JP401"
 			(at 53.34 35.56 0)
 			(effects
 				(font
@@ -4990,6 +6028,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b871b578-48c7-4610-928c-a318e1f69a51")
 		)
@@ -4999,7 +6091,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "JP501")
+					(reference "JP401")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "JP401")
 					(unit 1)
 				)
 			)
@@ -5011,8 +6109,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c13cd3fa-bdff-40b9-9bde-e1bef7b831f0")
 		(property "Reference" "#PWR09"
@@ -5069,6 +6167,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5080,7 +6184,7 @@
 		(on_board no)
 		(dnp yes)
 		(uuid "c4d9074c-42cb-4998-87bf-48ead2dcd0c8")
-		(property "Reference" "R506"
+		(property "Reference" "R406"
 			(at 200.66 44.196 90)
 			(effects
 				(font
@@ -5123,6 +6227,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 200.66 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 200.66 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 200.66 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 200.66 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 200.66 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d0d9ab1-980f-43b7-8b78-6622890e2f29")
 		)
@@ -5132,7 +6290,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "R506")
+					(reference "R406")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "R406")
 					(unit 1)
 				)
 			)
@@ -5144,11 +6308,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c520c055-1749-48f2-a579-3cedc02cf2c9")
-		(property "Reference" "C503"
+		(property "Reference" "C403"
 			(at 77.47 106.6799 0)
 			(effects
 				(font
@@ -5193,6 +6357,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f2ea1b65-d829-419b-b861-2bdf8875316e")
 		)
@@ -5202,7 +6420,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C503")
+					(reference "C403")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "C403")
 					(unit 1)
 				)
 			)
@@ -5272,6 +6496,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5281,10 +6511,10 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "ce11d85a-eabd-40e5-a160-6b761dce5a7b")
-		(property "Reference" "J501"
+		(property "Reference" "J401"
 			(at 26.67 99.0599 0)
 			(effects
 				(font
@@ -5329,6 +6559,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 29.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 29.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 29.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 29.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 29.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 29.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c583b151-9e50-4b36-827a-24f93c7415d5")
 		)
@@ -5341,7 +6625,13 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "J501")
+					(reference "J401")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "J401")
 					(unit 1)
 				)
 			)
@@ -5353,11 +6643,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dd5b0766-3955-4651-96d8-367a605e2f13")
-		(property "Reference" "C506"
+		(property "Reference" "C406"
 			(at 78.74 170.1799 0)
 			(effects
 				(font
@@ -5402,6 +6692,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 74.93 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 74.93 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 74.93 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 74.93 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 74.93 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 74.93 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "adcd5118-d38f-4b04-9715-543b94fb5ba3")
 		)
@@ -5411,7 +6755,13 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
-					(reference "C506")
+					(reference "C406")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
+					(reference "C406")
 					(unit 1)
 				)
 			)
@@ -5477,6 +6827,12 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/35a0f4f1-9888-4ee1-94e1-e8485c96600c"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/a734c78b-3c25-4053-9685-ebf4b652adff"
 					(reference "#PWR029")
 					(unit 1)
 				)

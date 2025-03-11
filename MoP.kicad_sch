@@ -47,12 +47,6 @@
 		(uuid "a18485fc-6e15-49f5-a4b2-afd41ef3681e")
 	)
 	(junction
-		(at 76.2 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b6c94bdc-b9a7-4e85-bb4d-567dec25fd94")
-	)
-	(junction
 		(at 199.39 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -63,26 +57,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5089634-91c8-4d33-a024-6ac55a83f22c")
-	)
-	(wire
-		(pts
-			(xy 39.37 55.88) (xy 33.02 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "036ff07b-e963-4eac-bc6f-bf99194f1e15")
-	)
-	(bus
-		(pts
-			(xy 73.66 50.8) (xy 76.2 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1717a2d9-7824-4267-ba96-721a2217e75e")
 	)
 	(bus
 		(pts
@@ -113,16 +87,6 @@
 			(type default)
 		)
 		(uuid "2cc70598-dc80-4fbe-b707-90625f03eb90")
-	)
-	(wire
-		(pts
-			(xy 39.37 50.8) (xy 35.56 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dc8fd6c-0bf7-4cc2-9694-f418244cf292")
 	)
 	(bus
 		(pts
@@ -164,26 +128,6 @@
 		)
 		(uuid "513ddd45-8119-4297-ae48-fbb868576907")
 	)
-	(wire
-		(pts
-			(xy 33.02 22.86) (xy 39.37 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "587c8050-c492-4e2f-9889-cbf36767dd7b")
-	)
-	(bus
-		(pts
-			(xy 76.2 24.13) (xy 76.2 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a5ccfa3-0167-4275-a296-f482b3a4aacd")
-	)
 	(bus
 		(pts
 			(xy 73.66 50.8) (xy 73.66 92.71)
@@ -204,39 +148,9 @@
 		)
 		(uuid "68a686f6-067e-4941-93af-015f15f26c9d")
 	)
-	(wire
-		(pts
-			(xy 33.02 55.88) (xy 33.02 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68c33c51-3b24-4778-b76c-c4a4c5241d5b")
-	)
-	(wire
-		(pts
-			(xy 39.37 33.02) (xy 35.56 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c7e7d60-9635-47f3-aacc-c0d6f9d6b5ca")
-	)
 	(bus
 		(pts
-			(xy 71.12 24.13) (xy 76.2 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "706319a9-228f-4acc-8331-e41e07fa09e8")
-	)
-	(bus
-		(pts
-			(xy 76.2 50.8) (xy 119.38 50.8)
+			(xy 73.66 50.8) (xy 119.38 50.8)
 		)
 		(stroke
 			(width 0)
@@ -283,16 +197,6 @@
 			(type default)
 		)
 		(uuid "83bb0d88-3ecf-40ca-a718-fb1fb27eb26e")
-	)
-	(wire
-		(pts
-			(xy 35.56 33.02) (xy 35.56 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87557a04-c009-4daa-ba1b-4b1926b17372")
 	)
 	(bus
 		(pts
@@ -521,7 +425,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "7")
+					(page "6")
 				)
 			)
 		)
@@ -599,14 +503,14 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "5")
+					(page "4")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 39.37 17.78)
-		(size 31.75 21.59)
+		(at 40.64 19.05)
+		(size 26.67 16.51)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -615,9 +519,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "4d057ef5-80c0-465a-b107-65508e007bbf")
-		(property "Sheetname" "Power"
-			(at 39.37 17.0684 0)
+		(uuid "47569ed5-8229-4ee5-b81c-5fc62940b8ea")
+		(property "Sheetname" "MoP_Power_Regulators1"
+			(at 40.64 18.3384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -625,65 +529,41 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MoP_Power.kicad_sch"
-			(at 39.37 39.9546 0)
+		(property "Sheetfile" "MoP_Power_Regulators.kicad_sch"
+			(at 40.64 36.1446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 40.64 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
-		(pin "Alert" input
-			(at 71.12 20.32 0)
+		(property "Field3" ""
+			(at 40.64 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(hide yes)
 			)
-			(uuid "c4ee72a7-5913-4849-ae49-f0fb9db798f3")
 		)
-		(pin "I2C{SCL SDA}" input
-			(at 71.12 24.13 0)
+		(property "Field4" ""
+			(at 40.64 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(hide yes)
 			)
-			(uuid "6dcd8d52-3820-4f9e-b87f-86af52ba400a")
-		)
-		(pin "~{PROCHOT}" input
-			(at 71.12 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "30fc818e-4412-4d10-b5e8-b5f8bf79e6f9")
-		)
-		(pin "ICHG" input
-			(at 39.37 33.02 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "a1e2a37c-c660-4eca-adb8-267d90b9107b")
-		)
-		(pin "PSYS" output
-			(at 39.37 22.86 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "369c95ee-0c00-4e52-a26b-c33e449fbd4e")
 		)
 		(instances
 			(project "MoP"
@@ -737,7 +617,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "6")
+					(page "5")
 				)
 			)
 		)
@@ -845,7 +725,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "11")
+					(page "10")
 				)
 			)
 		)
@@ -901,30 +781,10 @@
 			)
 			(uuid "f93638f5-9f62-446c-8306-e89a469d6b47")
 		)
-		(pin "PSYS" input
-			(at 39.37 55.88 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "675488fe-a013-4673-b938-c55c59889a7b")
-		)
-		(pin "ICHG" input
-			(at 39.37 50.8 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "2fef75a8-eae5-4dcf-a590-a10033fa6555")
-		)
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "8")
+					(page "7")
 				)
 			)
 		)
@@ -1093,7 +953,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "12")
+					(page "11")
 				)
 			)
 		)
@@ -1151,7 +1011,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "9")
+					(page "8")
 				)
 			)
 		)
@@ -1220,7 +1080,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "4")
+					(page "3")
 				)
 			)
 		)
@@ -1269,7 +1129,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091"
-					(page "10")
+					(page "9")
 				)
 			)
 		)

@@ -652,12 +652,8 @@
       "Root"
     ],
     [
-      "4d057ef5-80c0-465a-b107-65508e007bbf",
-      "Power"
-    ],
-    [
-      "470fbc69-c681-42cb-a92a-137e298f26aa",
-      "MoP_Power_Regulators"
+      "47569ed5-8229-4ee5-b81c-5fc62940b8ea",
+      "MoP_Power_Regulators1"
     ],
     [
       "ae2123db-e8af-4be5-b4d9-fa1dc199daa4",
@@ -694,14 +690,6 @@
     [
       "776889f8-2577-4d11-8ed0-968f1ffe11b5",
       "MCU"
-    ],
-    [
-      "e5907f32-472c-4482-9109-9908b225fa99",
-      "MoP_Charging"
-    ],
-    [
-      "32b67718-766c-4f22-bad6-bf99450d0210",
-      "BMS"
     ]
   ],
   "text_variables": {}

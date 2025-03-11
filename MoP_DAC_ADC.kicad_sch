@@ -1242,19 +1242,13 @@
 		)
 	)
 	(junction
-		(at 191.77 91.44)
+		(at 194.31 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "01e15d94-269b-46c2-8631-3301d81b9788")
 	)
 	(junction
-		(at 207.01 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "21d74367-1b46-4f4d-9e89-67fb6cdccf3c")
-	)
-	(junction
-		(at 191.77 93.98)
+		(at 194.31 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40715fd9-a377-4722-b564-e3dce70b7224")
@@ -1278,25 +1272,7 @@
 		(uuid "5f838805-b997-4f27-973c-4f5584093d55")
 	)
 	(junction
-		(at 214.63 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "80c228e9-c1bb-4067-a205-ef70a843fd88")
-	)
-	(junction
-		(at 212.09 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a0c70d3d-a36f-41c4-b282-2345f7efbc48")
-	)
-	(junction
-		(at 209.55 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bbe2c086-1b3f-46fb-a204-761aeda42e1a")
-	)
-	(junction
-		(at 191.77 96.52)
+		(at 194.31 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5de5361-1031-4f8b-874f-1d0e466d25c3")
@@ -1407,16 +1383,6 @@
 		)
 		(uuid "0536ddac-e626-4e25-bf09-d3eb4a8c54f2")
 	)
-	(wire
-		(pts
-			(xy 207.01 66.04) (xy 207.01 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08ef17bc-b592-4b4e-96f7-b20fecce5b7a")
-	)
 	(bus
 		(pts
 			(xy 237.49 68.58) (xy 237.49 71.12)
@@ -1439,23 +1405,13 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 96.52) (xy 193.04 96.52)
+			(xy 194.31 73.66) (xy 195.58 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b68d180-b966-4354-b9bf-e75adb8ebbf7")
-	)
-	(wire
-		(pts
-			(xy 209.55 68.58) (xy 209.55 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bd68f49-9e3d-4743-99bc-d5a105a86ae0")
 	)
 	(wire
 		(pts
@@ -1469,23 +1425,13 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 88.9) (xy 191.77 88.9)
+			(xy 195.58 66.04) (xy 194.31 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0c3b7bf2-f167-4487-868a-70baa15a4044")
-	)
-	(wire
-		(pts
-			(xy 212.09 71.12) (xy 212.09 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d6c71ed-0214-4bcb-ad7d-d7055ed77a1f")
 	)
 	(wire
 		(pts
@@ -1509,7 +1455,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 93.98) (xy 191.77 96.52)
+			(xy 194.31 71.12) (xy 194.31 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1529,7 +1475,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 93.98) (xy 191.77 93.98)
+			(xy 195.58 71.12) (xy 194.31 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1546,16 +1492,6 @@
 			(type default)
 		)
 		(uuid "30c902d6-9f05-4ee1-bedd-00fe7c528eac")
-	)
-	(wire
-		(pts
-			(xy 234.95 66.04) (xy 207.01 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32beb6b4-dabf-45f9-84fd-8fdfdcae1a19")
 	)
 	(wire
 		(pts
@@ -1579,7 +1515,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 93.98) (xy 212.09 93.98)
+			(xy 208.28 71.12) (xy 234.95 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1609,16 +1545,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 66.04) (xy 201.93 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40d69ed0-39ba-41e9-9076-3b184235a19c")
-	)
-	(wire
-		(pts
 			(xy 83.82 128.27) (xy 83.82 130.81)
 		)
 		(stroke
@@ -1629,7 +1555,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 91.44) (xy 209.55 91.44)
+			(xy 208.28 68.58) (xy 234.95 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1669,16 +1595,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 73.66) (xy 214.63 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "485a3ea2-7e3d-4c6d-b539-7088aee76548")
-	)
-	(wire
-		(pts
 			(xy 100.33 49.53) (xy 100.33 74.93)
 		)
 		(stroke
@@ -1689,17 +1605,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 68.58) (xy 201.93 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c4178c6-f5b8-48f8-bc98-a45b9e3cf2fe")
-	)
-	(wire
-		(pts
-			(xy 193.04 91.44) (xy 191.77 91.44)
+			(xy 195.58 68.58) (xy 194.31 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1729,7 +1635,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 91.44) (xy 191.77 93.98)
+			(xy 194.31 68.58) (xy 194.31 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1739,23 +1645,13 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 96.52) (xy 214.63 96.52)
+			(xy 208.28 73.66) (xy 234.95 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5fdfc327-0a31-4d5f-9cc4-38a1ea264add")
-	)
-	(wire
-		(pts
-			(xy 234.95 71.12) (xy 212.09 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6384366d-3ece-4a14-a458-bcf34dc40c56")
 	)
 	(wire
 		(pts
@@ -1769,17 +1665,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 73.66) (xy 201.93 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f9202f8-8cdc-454b-9c9f-606faa933d00")
-	)
-	(wire
-		(pts
-			(xy 191.77 88.9) (xy 191.77 91.44)
+			(xy 194.31 66.04) (xy 194.31 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1806,16 +1692,6 @@
 			(type default)
 		)
 		(uuid "74f50289-4bce-4f23-a319-88873e9e9009")
-	)
-	(wire
-		(pts
-			(xy 234.95 73.66) (xy 214.63 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d442f0e-b128-4a75-bcb3-11d0714ddd4f")
 	)
 	(wire
 		(pts
@@ -1909,7 +1785,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 88.9) (xy 205.74 88.9)
+			(xy 208.28 66.04) (xy 234.95 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1956,16 +1832,6 @@
 			(type default)
 		)
 		(uuid "bb43b263-e24d-4f00-b69f-edc96be1f211")
-	)
-	(wire
-		(pts
-			(xy 234.95 68.58) (xy 209.55 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea6933b-9a63-4acd-8464-8171b17ac074")
 	)
 	(wire
 		(pts
@@ -2119,23 +1985,13 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 104.14) (xy 191.77 96.52)
+			(xy 194.31 81.28) (xy 194.31 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fa98316e-f148-4c1a-94ec-888712a5f771")
-	)
-	(wire
-		(pts
-			(xy 212.09 71.12) (xy 201.93 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fea1773f-e5bd-4f44-87a7-ce7965a606d5")
 	)
 	(wire
 		(pts
@@ -2269,17 +2125,6 @@
 		)
 		(uuid "36924c44-f322-4387-b6e1-3368f271c007")
 	)
-	(label "ADC8"
-		(at 201.93 66.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "56f340ef-4f81-4b5b-8d95-176975d9df59")
-	)
 	(label "AIN7"
 		(at 123.19 123.19 0)
 		(fields_autoplaced yes)
@@ -2379,17 +2224,6 @@
 		)
 		(uuid "ca426f1b-189a-425d-9003-4047dab50503")
 	)
-	(label "ADC9"
-		(at 201.93 68.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cdef8926-24c2-455d-b356-1302b38d1f68")
-	)
 	(label "AIN2"
 		(at 123.19 64.77 0)
 		(fields_autoplaced yes)
@@ -2457,30 +2291,6 @@
 			(justify left)
 		)
 		(uuid "16573d54-7cdb-4af7-9e2b-048f8348cdef")
-	)
-	(hierarchical_label "ICHG"
-		(shape input)
-		(at 201.93 73.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "27a5e4cd-e110-4cdc-b418-afdf17c8ab0b")
-	)
-	(hierarchical_label "PSYS"
-		(shape input)
-		(at 201.93 71.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e51215f4-c31d-489b-8ffb-3361e9f8aa13")
 	)
 	(symbol
 		(lib_id "power:GNDREF")
@@ -2600,6 +2410,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab205fc6-9176-4eec-805a-70a3989b11c3")
 		)
@@ -2670,6 +2534,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "d1cb8481-0ed3-41ff-98fa-f9e577c2ec81")
 		)
@@ -2719,7 +2637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bef9027-d6bc-4fcb-89a2-261c7478beae")
-		(property "Reference" "C801"
+		(property "Reference" "C701"
 			(at 104.14 44.4499 0)
 			(effects
 				(font
@@ -2764,6 +2682,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3eaac5a-d653-460c-8730-692eed5bc764")
 		)
@@ -2773,7 +2745,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/6a166328-b4f8-4957-9253-71d3eae4309f"
-					(reference "C801")
+					(reference "C701")
 					(unit 1)
 				)
 			)
@@ -2789,7 +2761,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89879fd2-7756-4718-82f9-d7f3ca1e342d")
-		(property "Reference" "U802"
+		(property "Reference" "U702"
 			(at 81.6259 102.87 0)
 			(effects
 				(font
@@ -2834,6 +2806,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "ce84c456-7fb1-4481-b93e-c0cfe2087c7f")
 		)
@@ -2867,7 +2893,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/6a166328-b4f8-4957-9253-71d3eae4309f"
-					(reference "U802")
+					(reference "U702")
 					(unit 1)
 				)
 			)
@@ -2875,7 +2901,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x04_Counter_Clockwise")
-		(at 200.66 91.44 0)
+		(at 203.2 68.58 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2884,8 +2910,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bd0f217-8f30-42a4-bbd6-300225735fa7")
-		(property "Reference" "J801"
-			(at 199.39 82.55 0)
+		(property "Reference" "J702"
+			(at 201.93 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,15 +2919,15 @@
 			)
 		)
 		(property "Value" "ADC_{in}"
-			(at 199.39 85.09 0)
+			(at 201.93 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x04_P1.00mm_Vertical"
-			(at 200.66 91.44 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 203.2 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2910,7 +2936,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 200.66 91.44 0)
+			(at 203.2 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2919,7 +2945,61 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 91.44 0)
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey#" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 203.2 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +3034,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/6a166328-b4f8-4957-9253-71d3eae4309f"
-					(reference "J801")
+					(reference "J702")
 					(unit 1)
 				)
 			)
@@ -3102,7 +3182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f046deef-2b82-4f60-9087-ccd5b1f2596f")
-		(property "Reference" "C802"
+		(property "Reference" "C702"
 			(at 104.14 100.3299 0)
 			(effects
 				(font
@@ -3147,6 +3227,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 100.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 100.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 100.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 100.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 100.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 100.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "472bfc61-72d7-4f4a-bd12-3dccc96af9dd")
 		)
@@ -3156,7 +3290,7 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/6a166328-b4f8-4957-9253-71d3eae4309f"
-					(reference "C802")
+					(reference "C702")
 					(unit 1)
 				)
 			)
@@ -3164,7 +3298,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 191.77 104.14 0)
+		(at 194.31 81.28 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3174,7 +3308,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6555d89-348a-4def-b973-65081b61b5b4")
 		(property "Reference" "#PWR015"
-			(at 191.77 110.49 0)
+			(at 194.31 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3183,7 +3317,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 191.77 109.22 0)
+			(at 194.31 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3191,7 +3325,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 104.14 0)
+			(at 194.31 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3200,7 +3334,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 104.14 0)
+			(at 194.31 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3209,7 +3343,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 191.77 104.14 0)
+			(at 194.31 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3238,7 +3372,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f97167bd-8331-417f-9f81-5a1988a0d49e")
-		(property "Reference" "JP801"
+		(property "Reference" "JP701"
 			(at 50.8 34.544 0)
 			(effects
 				(font
@@ -3282,6 +3416,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 50.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e7b1edb7-524d-4035-b568-1612b3360a79")
 		)
@@ -3291,7 +3479,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/6a166328-b4f8-4957-9253-71d3eae4309f"
-					(reference "JP801")
+					(reference "JP701")
 					(unit 1)
 				)
 			)

@@ -1374,12 +1374,6 @@
 		)
 	)
 	(junction
-		(at 160.02 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "00cf453e-a822-4480-9c00-b5c9c8565881")
-	)
-	(junction
 		(at 140.97 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1396,12 +1390,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "308e5ad0-7591-4a8a-8cb1-b9138be23be7")
-	)
-	(junction
-		(at 160.02 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31567d0b-56d2-41c8-b189-b2dc21615a71")
 	)
 	(junction
 		(at 115.57 74.93)
@@ -1511,16 +1499,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 74.93) (xy 160.02 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0485b1f6-ca1e-4ecd-bc43-24527d0f43db")
-	)
-	(wire
-		(pts
 			(xy 140.97 74.93) (xy 149.86 74.93)
 		)
 		(stroke
@@ -1591,7 +1569,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 74.93) (xy 168.91 74.93)
+			(xy 149.86 74.93) (xy 168.91 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1789,16 +1767,6 @@
 		)
 		(uuid "9371cfd1-6a46-4c40-8b01-4847c6c94c1f")
 	)
-	(wire
-		(pts
-			(xy 160.02 115.57) (xy 168.91 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a400b78f-b161-46df-bb28-83c85c4f3ede")
-	)
 	(bus
 		(pts
 			(xy 115.57 105.41) (xy 115.57 107.95)
@@ -1881,7 +1849,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 115.57) (xy 160.02 115.57)
+			(xy 149.86 115.57) (xy 168.91 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1931,16 +1899,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 85.09) (xy 160.02 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1abb5eb-e7e5-41b4-97d5-c64a524594ed")
-	)
-	(wire
-		(pts
 			(xy 168.91 74.93) (xy 168.91 78.74)
 		)
 		(stroke
@@ -1958,16 +1916,6 @@
 			(type default)
 		)
 		(uuid "f506c432-592b-4a57-af6d-a688fae02609")
-	)
-	(wire
-		(pts
-			(xy 149.86 74.93) (xy 160.02 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7fd97f7-eacd-4e44-8f82-2b6066e729f2")
 	)
 	(wire
 		(pts
@@ -2087,7 +2035,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "20bf47a6-c500-4452-8921-85e5d2a493de")
-		(property "Reference" "R1001"
+		(property "Reference" "R901"
 			(at 123.19 77.216 90)
 			(effects
 				(font
@@ -2130,6 +2078,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70e5468d-678f-48a4-b804-7446a63ef6e4")
 		)
@@ -2139,7 +2141,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
-					(reference "R1001")
+					(reference "R901")
 					(unit 1)
 				)
 			)
@@ -2192,6 +2194,60 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey#" ""
+			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 191.77 95.25 0)
 			(effects
 				(font
@@ -2332,7 +2388,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "920e0fa6-76bc-4c1f-b3e1-106877a56b88")
-		(property "Reference" "P1001"
+		(property "Reference" "P901"
 			(at 177.546 78.74 0)
 			(effects
 				(font
@@ -2342,7 +2398,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 174.244 84.328 0)
+			(at 174.752 84.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2350,7 +2406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 168.91 82.55 0)
 			(effects
 				(font
@@ -2359,7 +2415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/51026/t93.pdf"
 			(at 168.91 82.55 0)
 			(effects
 				(font
@@ -2368,7 +2424,61 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Trim-potentiometer"
+		(property "Description" "Trim-potentiometer - T93YA103KT20"
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey#" ""
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 168.91 82.55 0)
 			(effects
 				(font
@@ -2389,7 +2499,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
-					(reference "P1001")
+					(reference "P901")
 					(unit 1)
 				)
 			)
@@ -2405,7 +2515,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a7100240-f85e-4fee-a276-8cc1282bca8f")
-		(property "Reference" "C1001"
+		(property "Reference" "C901"
 			(at 148.844 78.232 0)
 			(effects
 				(font
@@ -2414,7 +2524,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 146.558 83.058 0)
 			(effects
 				(font
@@ -2450,6 +2560,60 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey#" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6edcc5f1-e0ee-4b6c-852a-66281c816fb0")
 		)
@@ -2459,7 +2623,7 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
-					(reference "C1001")
+					(reference "C901")
 					(unit 1)
 				)
 			)
@@ -2511,6 +2675,60 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey#" ""
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P#" ""
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 123.19 74.93 0)
 			(effects
 				(font
@@ -2595,76 +2813,6 @@
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 160.02 81.28 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f77373bf-88c2-4f42-830c-2c27d309716e")
-		(property "Reference" "R1002"
-			(at 158.496 78.232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0"
-			(at 157.48 82.5499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 161.798 81.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 160.02 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 160.02 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2dbd9f2-1f33-4f96-83a2-a68e48bdbb6a")
-		)
-		(pin "2"
-			(uuid "0718f30d-1730-49c1-9783-d44598b7fa1e")
-		)
-		(instances
-			(project "MoP"
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
-					(reference "R1002")
 					(unit 1)
 				)
 			)
