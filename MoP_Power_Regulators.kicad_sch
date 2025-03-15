@@ -1487,16 +1487,13 @@
 				)
 			)
 		)
-		(symbol "Nigels_Library:R5V"
+		(symbol "Nigels_Library:R3V3"
 			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
 			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR032"
-				(at 0 -3.81 0)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#PWR"
+				(at 0 -0.762 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1504,8 +1501,8 @@
 					(hide yes)
 				)
 			)
-			(property "Value" "R5V"
-				(at 0 5.08 0)
+			(property "Value" "R3V3"
+				(at 0 3.556 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1530,8 +1527,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"R5V\""
-				(at 0 0 0)
+			(property "Description" "Regulated 3.3V"
+				(at 0 -1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1539,19 +1536,10 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R5V_0_1"
+			(symbol "R3V3_1_1"
 				(polyline
 					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.635 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1563,7 +1551,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 0) (xy 0 2.54) (xy -0.635 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1573,31 +1561,111 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R5V_1_1"
 				(pin power_in line
 					(at 0 0 90)
-					(length 0)
-					(name "~"
+					(length 0) hide
+					(name "R5V"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "1"
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "R5V_1"
+			(power)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#PWR"
+				(at 0 -0.762 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "R5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Regulated 5V"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R5V_1_1_1"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.635 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54) (xy -0.635 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 90)
+					(length 0) hide
+					(name "R5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1929,126 +1997,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "power:+5V"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+5V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+5V\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+5V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+5V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2522,12 +2470,6 @@
 		(uuid "99e3c5b2-60a3-4c74-9e61-a512000892f8")
 	)
 	(junction
-		(at 227.33 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b65992d-c1f3-4282-ba2e-d841f56dac7d")
-	)
-	(junction
 		(at 119.38 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2562,6 +2504,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c38796b5-17df-4d43-b3cc-a433695a1646")
+	)
+	(junction
+		(at 227.33 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8a19cd4-9114-4bb8-abbd-55e03cfce17c")
 	)
 	(junction
 		(at 93.98 177.8)
@@ -2783,16 +2731,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 36.83) (xy 227.33 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "292c2262-e5b3-439f-8d71-a2e68a769e0f")
-	)
-	(wire
-		(pts
 			(xy 106.68 68.58) (xy 106.68 72.39)
 		)
 		(stroke
@@ -2930,6 +2868,16 @@
 			(type default)
 		)
 		(uuid "469b4951-1e7a-4893-90f1-46cdc7942ac6")
+	)
+	(wire
+		(pts
+			(xy 227.33 36.83) (xy 227.33 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47e23877-a593-45c4-8280-9b45a1fd3705")
 	)
 	(wire
 		(pts
@@ -4030,12 +3978,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "D202")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4306,7 +4248,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0d7ea4bb-a6c1-4962-ba97-b7edb32ca5a0")
 		(property "Reference" "U202"
 			(at 54.61 142.24 0)
@@ -4561,12 +4502,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "R203")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4628,12 +4563,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "#PWR022")
 					(unit 1)
 				)
@@ -4895,12 +4824,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "R204")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5096,12 +5019,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5219,12 +5136,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "R201")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "R201")
 					(unit 1)
 				)
@@ -5349,12 +5260,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "C203")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "C203")
 					(unit 1)
 				)
@@ -5624,12 +5529,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR052")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5753,84 +5652,6 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
 					(reference "Q202")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "Q202")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Nigels_Library:R5V")
-		(at 99.06 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4f181402-8c82-403b-9b5b-3b1a67923bd4")
-		(property "Reference" "#PWR049"
-			(at 99.06 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "R5V"
-			(at 99.06 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 99.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"R5V\""
-			(at 99.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "027925c1-be53-44ce-99a0-a4252e45ad7e")
-		)
-		(instances
-			(project ""
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -5958,26 +5779,20 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "D203")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
-		(lib_id "Nigels_Library:R5V")
-		(at 203.2 33.02 0)
+		(lib_id "Nigels_Library:R3V3")
+		(at 156.21 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5d0e22c2-ebb2-4671-a201-ed22c52c4830")
-		(property "Reference" "#PWR053"
-			(at 203.2 36.83 0)
+		(uuid "53c9b53d-3ba8-42ed-8cae-c8ba11ddac82")
+		(property "Reference" "#PWR?"
+			(at 156.21 101.092 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5986,7 +5801,7 @@
 			)
 		)
 		(property "Value" "R3V3"
-			(at 203.2 27.94 0)
+			(at 156.21 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5994,7 +5809,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 33.02 0)
+			(at 156.21 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6003,7 +5818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 33.02 0)
+			(at 156.21 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6011,8 +5826,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"R5V\""
-			(at 203.2 33.02 0)
+		(property "Description" "Regulated 3.3V"
+			(at 156.21 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6020,19 +5835,19 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "f4f328ed-3209-4927-bc5c-40970217114f")
+		(pin ""
+			(uuid "13c474b0-2a83-482d-85d2-8c1792c3d0b8")
 		)
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR053")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
-			(project "MoP"
+			(project "EPS"
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR053")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -6233,12 +6048,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6357,12 +6166,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "F202")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "F202")
 					(unit 1)
 				)
@@ -6563,9 +6366,76 @@
 					(unit 1)
 				)
 			)
+		)
+	)
+	(symbol
+		(lib_name "R5V_1")
+		(lib_id "Nigels_Library:R5V")
+		(at 227.33 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6df022fe-af06-4075-83ee-0d12fa3ebb8d")
+		(property "Reference" "#PWR?"
+			(at 227.33 37.592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R5V"
+			(at 227.33 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Regulated 5V"
+			(at 227.33 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "4a2c5553-324f-4b6a-9e03-0d9be5af6940")
+		)
+		(instances
 			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "EPS"
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "C202")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -6689,12 +6559,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "JP202")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "JP202")
 					(unit 1)
 				)
@@ -6832,78 +6696,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 227.33 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "82c52d62-62a2-4441-b8bc-0be72274c32b")
-		(property "Reference" "#PWR020"
-			(at 227.33 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "R5V"
-			(at 227.33 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 227.33 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cffde375-0f3c-475e-b4a9-518ad4833ad2")
-		)
-		(instances
-			(project "MoP"
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 227.33 59.69 0)
 		(unit 1)
@@ -7021,12 +6813,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "C201")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "C201")
 					(unit 1)
 				)
@@ -7292,6 +7078,151 @@
 		)
 	)
 	(symbol
+		(lib_name "R5V_1")
+		(lib_id "Nigels_Library:R5V")
+		(at 133.35 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97fe741c-e92d-4c2d-b6bc-0fd943b01a98")
+		(property "Reference" "#PWR?"
+			(at 133.35 33.782 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R5V"
+			(at 133.35 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Regulated 5V"
+			(at 133.35 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "d7b36c06-4d38-4d47-ae95-78eb3d51f877")
+		)
+		(instances
+			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Nigels_Library:R3V3")
+		(at 203.2 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a8cb373-770b-4b02-83d2-a08e87c4f99b")
+		(property "Reference" "#PWR?"
+			(at 203.2 33.782 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R3V3"
+			(at 203.2 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 203.2 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Regulated 3.3V"
+			(at 203.2 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "727edb85-e3a5-4455-bb08-648dca52a6da")
+		)
+		(instances
+			(project "MoP"
+				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 119.38 168.91 0)
 		(unit 1)
@@ -7409,12 +7340,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "R206")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "R206")
 					(unit 1)
 				)
@@ -7543,12 +7468,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "JP203")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -7669,12 +7588,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "C205")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "C205")
 					(unit 1)
 				)
@@ -7805,84 +7718,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "Q203")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Nigels_Library:R5V")
-		(at 156.21 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d3c7c084-378b-4466-aebf-d0ba173d1bfd")
-		(property "Reference" "#PWR050"
-			(at 156.21 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "R3V3"
-			(at 156.21 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"R5V\""
-			(at 156.21 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "200739a8-817d-4609-b597-2e2d006513f0")
-		)
-		(instances
-			(project "MoP"
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR050")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR050")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -8008,12 +7843,6 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "U201")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -8075,12 +7904,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR054")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "#PWR054")
 					(unit 1)
 				)
@@ -8207,26 +8030,21 @@
 					(unit 1)
 				)
 			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "F201")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
+		(lib_name "R5V_1")
 		(lib_id "Nigels_Library:R5V")
-		(at 133.35 33.02 0)
+		(at 99.06 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e40f2922-2814-438e-97f9-5a2b4c266d13")
-		(property "Reference" "#PWR051"
-			(at 133.35 36.83 0)
+		(uuid "e471d80b-5a80-4fbe-b6d0-77244dd5783b")
+		(property "Reference" "#PWR?"
+			(at 99.06 101.092 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8235,7 +8053,7 @@
 			)
 		)
 		(property "Value" "R5V"
-			(at 133.35 27.94 0)
+			(at 99.06 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8243,7 +8061,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 33.02 0)
+			(at 99.06 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8252,7 +8070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 33.02 0)
+			(at 99.06 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8260,8 +8078,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"R5V\""
-			(at 133.35 33.02 0)
+		(property "Description" "Regulated 5V"
+			(at 99.06 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8269,19 +8087,19 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "93694505-2495-4512-80f9-3577adf33301")
+		(pin ""
+			(uuid "676956f8-a06c-4253-8e21-2bc2bf8dde79")
 		)
 		(instances
-			(project ""
+			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR051")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "EPS"
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
-					(reference "#PWR051")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -8347,12 +8165,6 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/47569ed5-8229-4ee5-b81c-5fc62940b8ea"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/5cd66744-0e0f-4557-a5ae-c2f7d71d60a3"
 					(reference "#PWR019")
 					(unit 1)
 				)

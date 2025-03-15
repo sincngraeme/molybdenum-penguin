@@ -1120,7 +1120,7 @@
 				)
 			)
 		)
-		(symbol "power:+3V3"
+		(symbol "power:+5V"
 			(power)
 			(pin_numbers hide)
 			(pin_names
@@ -1137,7 +1137,7 @@
 					(hide yes)
 				)
 			)
-			(property "Value" "+3V3"
+			(property "Value" "+5V"
 				(at 0 3.556 0)
 				(effects
 					(font
@@ -1163,7 +1163,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
 				(at 0 0 0)
 				(effects
 					(font
@@ -1181,7 +1181,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "+3V3_0_1"
+			(symbol "+5V_0_1"
 				(polyline
 					(pts
 						(xy -0.762 1.27) (xy 0 2.54)
@@ -1219,7 +1219,7 @@
 					)
 				)
 			)
-			(symbol "+3V3_1_1"
+			(symbol "+5V_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -2027,13 +2027,79 @@
 		(uuid "97e5d60b-8e38-490e-8a14-573aeecc7b70")
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 123.19 80.01 90)
+		(lib_id "power:+5V")
+		(at 115.57 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09fd3391-9953-4da0-ad96-53d13513e4c1")
+		(property "Reference" "#PWR0801"
+			(at 115.57 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R5V"
+			(at 115.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 115.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "efa38e84-229e-47dc-9aed-6f99d1810ef4")
+		)
+		(instances
+			(project "OBC"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
+					(reference "#PWR0801")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 123.19 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp yes)
 		(uuid "20bf47a6-c500-4452-8921-85e5d2a493de")
 		(property "Reference" "R901"
 			(at 123.19 77.216 90)
@@ -2142,6 +2208,12 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
 					(reference "R901")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
+					(reference "R801")
 					(unit 1)
 				)
 			)
@@ -2311,69 +2383,9 @@
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 115.57 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c54a2d1-5065-4617-9ea7-965b7a61c282")
-		(property "Reference" "#PWR031"
-			(at 115.57 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "R5V"
-			(at 115.57 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 115.57 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 115.57 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 115.57 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab5ae542-f9f0-4406-ae52-08de22dafae6")
-		)
-		(instances
-			(project ""
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
-					(reference "#PWR031")
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
+					(reference "J801")
 					(unit 1)
 				)
 			)
@@ -2503,6 +2515,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
+					(reference "P801")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2624,6 +2642,12 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
 					(reference "C901")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
+					(reference "C801")
 					(unit 1)
 				)
 			)
@@ -2750,6 +2774,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
+					(reference "JP801")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2812,6 +2842,12 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/d35d25c1-d5ff-4296-8cd7-8485bcc0a02c"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/99163bcd-f204-4e6d-aa95-ab00d27e8f54"
 					(reference "#PWR011")
 					(unit 1)
 				)

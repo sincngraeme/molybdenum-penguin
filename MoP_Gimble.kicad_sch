@@ -2517,7 +2517,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 162.56) (xy 264.16 160.02)
+			(xy 254 160.02) (xy 254 157.48)
 		)
 		(stroke
 			(width 0)
@@ -2797,7 +2797,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 139.7) (xy 264.16 137.16)
+			(xy 254 137.16) (xy 254 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2867,7 +2867,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 137.16) (xy 264.16 137.16)
+			(xy 251.46 134.62) (xy 254 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3164,7 +3164,7 @@
 		(uuid "91f67402-7a5d-47c1-a4e8-22d4201677d9")
 	)
 	(label "VCC"
-		(at 261.62 137.16 0)
+		(at 251.46 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3278,15 +3278,15 @@
 	)
 	(symbol
 		(lib_id "74xGxx:74LVC2G14")
-		(at 264.16 149.86 0)
+		(at 254 147.32 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "09c15af8-7351-448c-8607-51d56961132a")
 		(property "Reference" "U302"
-			(at 253.492 147.066 0)
+			(at 243.332 144.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3294,7 +3294,7 @@
 			)
 		)
 		(property "Value" "74LVC2G14"
-			(at 251.206 151.384 0)
+			(at 241.046 148.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3302,7 +3302,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3311,7 +3311,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf"
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3320,7 +3320,7 @@
 			)
 		)
 		(property "Description" "Dual NOT Gate, Schmitt Triggered, Low-Voltage CMOS"
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3329,7 +3329,7 @@
 			)
 		)
 		(property "DigiKey#" ""
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3338,7 +3338,7 @@
 			)
 		)
 		(property "P#" ""
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3347,7 +3347,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3356,7 +3356,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3365,7 +3365,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3374,7 +3374,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 264.16 149.86 0)
+			(at 254 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,6 +3408,12 @@
 				)
 			)
 			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "U502")
+					(unit 3)
+				)
+			)
+			(project ""
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
 					(reference "U302")
 					(unit 3)
@@ -3421,8 +3427,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12b24ac6-adc3-4878-a717-08ebc32b707a")
 		(property "Reference" "C301"
@@ -3538,6 +3544,12 @@
 				)
 			)
 			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "C501")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
 					(reference "C301")
 					(unit 1)
@@ -3551,8 +3563,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "2836869b-b62c-4247-b453-a0059da4e7fb")
 		(property "Reference" "R302"
 			(at 199.898 54.61 0)
@@ -3667,6 +3679,12 @@
 				)
 			)
 			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "R502")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
 					(reference "R302")
 					(unit 1)
@@ -3680,8 +3698,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f0aefcb-c4ff-43bb-a1d8-8ad8050ea422")
 		(property "Reference" "U302"
@@ -3807,8 +3825,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "U302")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "U502")
 					(unit 1)
 				)
 			)
@@ -3820,8 +3838,8 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f8120b3-6a1b-405d-acf0-13421b12b0cb")
 		(property "Reference" "U302"
@@ -3947,8 +3965,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "U302")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "U502")
 					(unit 2)
 				)
 			)
@@ -3959,9 +3977,9 @@
 		(at 165.1 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "34894697-5fd6-4146-8b81-3a83cb09368a")
 		(property "Reference" "J305"
 			(at 164.846 167.132 0)
@@ -4077,8 +4095,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "J305")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "J505")
 					(unit 1)
 				)
 			)
@@ -4090,8 +4108,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c86b976-ad78-4fb8-81a0-9ac1d2601f5a")
 		(property "Reference" "C302"
@@ -4207,8 +4225,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "C302")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "C502")
 					(unit 1)
 				)
 			)
@@ -4220,8 +4238,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5254f76b-9d60-4f2a-b4c1-9f5e5bf27650")
 		(property "Reference" "#PWR08"
@@ -4279,7 +4297,7 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
 					(reference "#PWR08")
 					(unit 1)
 				)
@@ -4351,6 +4369,12 @@
 				)
 			)
 			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
 					(reference "#PWR033")
 					(unit 1)
@@ -4363,9 +4387,9 @@
 		(at 165.1 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "5707818a-60d6-4106-83f1-b56730ad501f")
 		(property "Reference" "J304"
 			(at 164.846 144.272 0)
@@ -4481,8 +4505,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "J304")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "J504")
 					(unit 1)
 				)
 			)
@@ -4494,8 +4518,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "601500ca-2522-4ec3-b54d-a18ee2efae14")
 		(property "Reference" "U301"
 			(at 102.87 48.514 0)
@@ -4653,8 +4677,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "U301")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "U501")
 					(unit 1)
 				)
 			)
@@ -4666,8 +4690,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "66c63595-f48b-4244-a5a1-b2a49e3dd650")
 		(property "Reference" "R304"
 			(at 197.358 114.3 0)
@@ -4782,8 +4806,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "R304")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "R504")
 					(unit 1)
 				)
 			)
@@ -4795,8 +4819,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "6b247865-d251-4846-abe4-62357853e9d7")
 		(property "Reference" "J301"
 			(at 186.69 57.658 0)
@@ -4912,8 +4936,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "J301")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "J501")
 					(unit 1)
 				)
 			)
@@ -4921,16 +4945,16 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 264.16 162.56 0)
+		(at 254 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83d298bd-0b7d-46d7-a5f0-9a6c9d2514d7")
 		(property "Reference" "#PWR046"
-			(at 264.16 168.91 0)
+			(at 254 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4939,7 +4963,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 264.16 167.64 0)
+			(at 254 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4947,7 +4971,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 162.56 0)
+			(at 254 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4956,7 +4980,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 162.56 0)
+			(at 254 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4965,7 +4989,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 264.16 162.56 0)
+			(at 254 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4984,7 +5008,7 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
 					(reference "#PWR046")
 					(unit 1)
 				)
@@ -4997,8 +5021,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ec5d4ef-655c-4c70-9436-c7dfff056d87")
 		(property "Reference" "#PWR05"
@@ -5056,7 +5080,7 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
 					(reference "#PWR05")
 					(unit 1)
 				)
@@ -5069,8 +5093,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "a4ddb1cf-607b-49b0-a633-c8197c2abbd7")
 		(property "Reference" "R303"
 			(at 205.74 58.42 90)
@@ -5183,8 +5207,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "R303")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "R503")
 					(unit 1)
 				)
 			)
@@ -5195,9 +5219,9 @@
 		(at 156.21 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a6c0e26f-6bc7-420f-948d-9fe4430e9846")
 		(property "Reference" "#PWR032"
@@ -5255,6 +5279,12 @@
 				)
 			)
 			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
 					(reference "#PWR032")
 					(unit 1)
@@ -5268,8 +5298,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9a65e10-a543-4d7a-82b4-215f0ae5bcda")
 		(property "Reference" "#PWR04"
@@ -5327,6 +5357,12 @@
 				)
 			)
 			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
 					(reference "#PWR04")
 					(unit 1)
@@ -5340,8 +5376,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "c8671fe1-ee0b-4ccc-8e8c-c2aaca2b1156")
 		(property "Reference" "R305"
 			(at 203.2 118.11 90)
@@ -5454,8 +5490,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "R305")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "R505")
 					(unit 1)
 				)
 			)
@@ -5581,8 +5617,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "R401")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "R501")
 					(unit 1)
 				)
 			)
@@ -5594,8 +5630,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "cfe7059d-fd09-4827-9241-7672a438c224")
 		(property "Reference" "J302"
 			(at 142.24 66.802 0)
@@ -5711,8 +5747,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "J302")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "J502")
 					(unit 1)
 				)
 			)
@@ -5722,7 +5758,7 @@
 		(lib_id "Jumper:Jumper_2_Bridged")
 		(at 87.63 41.91 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5840,8 +5876,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "JP301")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "JP501")
 					(unit 1)
 				)
 			)
@@ -5852,9 +5888,9 @@
 		(at 158.75 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e5e9130c-2cba-4fe4-94a5-088b5146e5e1")
 		(property "Reference" "#PWR06"
@@ -5913,7 +5949,7 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
 					(reference "#PWR06")
 					(unit 1)
 				)
@@ -5926,8 +5962,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "f90b9a49-8081-4729-89f5-ba9a225fb88d")
 		(property "Reference" "J405"
 			(at 184.15 117.348 0)
@@ -6043,7 +6079,7 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
 					(reference "J405")
 					(unit 1)
 				)
@@ -6056,8 +6092,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "fe0d8949-5da8-4eab-98bd-addfdd8167ee")
 		(property "Reference" "J303"
 			(at 142.24 82.042 0)
@@ -6173,8 +6209,8 @@
 				)
 			)
 			(project "MoP"
-				(path "/52a913a9-260a-4c5e-b5a1-a816986dad8b/2ad22670-0749-4436-8ceb-f69431fb9bf6"
-					(reference "J303")
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/9c2f8a64-b4fe-4853-9562-1e118ef082ba"
+					(reference "J503")
 					(unit 1)
 				)
 			)

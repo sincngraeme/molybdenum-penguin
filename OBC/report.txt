@@ -1,0 +1,1430 @@
+Info: Processing symbol 'C201:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C302:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'D201:Diode_SMD:D_0805_2012Metric'.
+Info: Processing symbol 'C403:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C502:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J403:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J404:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J402:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C406:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J503:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'D1001:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'J405:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C401:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C202:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J301:'.
+Info: Processing symbol 'J801:Connector_PinHeader_1.00mm:PinHeader_1x16_P1.00mm_Vertical'.
+Info: Processing symbol 'J401:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C404:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J505:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C1002:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C801:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J501:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J201:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C501:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D202:Diode_SMD:D_0805_2012Metric'.
+Info: Processing symbol 'C301:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C402:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J701:Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical'.
+Info: Processing symbol 'J702:Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'J502:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J601:Connector_PinHeader_2.54mm:PinHeader_2x19_P2.54mm_Vertical'.
+Info: Processing symbol 'C405:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J602:Connector_PinHeader_2.54mm:PinHeader_2x19_P2.54mm_Vertical'.
+Info: Processing symbol 'D1002:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'J504:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J703:Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'C1001:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J901:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J902:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J903:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J1001:Nigels_Library:GCT_USB4105-GF-A'.
+Info: Processing symbol 'JP201:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP202:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP301:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP401:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP402:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP501:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP601:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP801:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP1001:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP1002:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'P801:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R201:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R202:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R203:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R402:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R403:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R404:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R405:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R502:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R503:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R504:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R505:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R801:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R1003:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R1004:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R1005:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R1006:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U4:Package_DIP:DIP-16_W7.62mm_Socket_LongPads'.
+Info: Processing symbol 'U201:Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm'.
+Info: Processing symbol 'U202:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U301:Package_SO:TSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'U302:Package_SO:TSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'U401:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U501:Package_SO:SO-20_12.8x7.5mm_P1.27mm'.
+Info: Processing symbol 'U502:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U601:Package_SO:SSOP-28_5.3x10.2mm_P0.65mm'.
+Info: Processing symbol 'U1001:Package_SO:SSOP-16_3.9x4.9mm_P0.635mm'.
+Updated C302 footprint filters to 'C_*'.
+Connected C302 pin 2 to GND.
+Connected C302 pin 1 to /DAC_ADC/VDD.
+Added C401 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C401.
+Changed C401 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Updated C401 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/91918dbb-ee51-421e-b160-ff258d822f60.
+Updated C401 fields.
+Updated C401 sheetname to 'DC_Motors'.
+Updated C401 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated C401 footprint filters to 'C_*'.
+Connected C401 pin 2 to GND.
+Add net /DC_Motors/5V.
+Connected C401 pin 1 to /DC_Motors/5V.
+Added C402 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C402.
+Changed C402 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Updated C402 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/2641ebe9-b15e-4730-bd8d-2f25a67c96bf.
+Updated C402 fields.
+Updated C402 sheetname to 'DC_Motors'.
+Updated C402 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated C402 footprint filters to 'C_*'.
+Add net /DC_Motors/VLED1.
+Connected C402 pin 1 to /DC_Motors/VLED1.
+Connected C402 pin 2 to GND.
+Added C403 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C403.
+Changed C403 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 2.2n.
+Updated C403 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/c520c055-1749-48f2-a579-3cedc02cf2c9.
+Updated C403 fields.
+Updated C403 sheetname to 'DC_Motors'.
+Updated C403 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated C403 footprint filters to 'C_*'.
+Connected C403 pin 2 to GND.
+Add net /DC_Motors/SIG1.
+Connected C403 pin 1 to /DC_Motors/SIG1.
+Added C404 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C404.
+Changed C404 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Updated C404 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/5a3efa3b-ceb5-420f-b383-2de6e85b93f9.
+Updated C404 fields.
+Updated C404 sheetname to 'DC_Motors'.
+Updated C404 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated C404 footprint filters to 'C_*'.
+Add net /DC_Motors/VLED2.
+Connected C404 pin 1 to /DC_Motors/VLED2.
+Connected C404 pin 2 to GND.
+Added C405 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C405.
+Changed C405 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Updated C405 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/a93fbc92-c952-4365-9b89-8583b5472569.
+Updated C405 fields.
+Updated C405 sheetname to 'DC_Motors'.
+Updated C405 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated C405 footprint filters to 'C_*'.
+Connected C405 pin 1 to /DC_Motors/5V.
+Connected C405 pin 2 to GND.
+Added C406 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C406.
+Changed C406 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 2.2n.
+Updated C406 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/dd5b0766-3955-4651-96d8-367a605e2f13.
+Updated C406 fields.
+Updated C406 sheetname to 'DC_Motors'.
+Updated C406 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated C406 footprint filters to 'C_*'.
+Connected C406 pin 2 to GND.
+Add net /DC_Motors/SIG2.
+Connected C406 pin 1 to /DC_Motors/SIG2.
+Added C501 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C501.
+Changed C501 value from C_0805_2012Metric to 1u.
+Updated C501 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/12b24ac6-adc3-4878-a717-08ebc32b707a.
+Updated C501 fields.
+Updated C501 sheetname to 'Gimble'.
+Updated C501 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated C501 footprint filters to 'C_*'.
+Add net Net-(C501-Pad1).
+Connected C501 pin 1 to Net-(C501-Pad1).
+Connected C501 pin 2 to GND.
+Added C502 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C502.
+Changed C502 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 1u.
+Updated C502 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/4c86b976-ad78-4fb8-81a0-9ac1d2601f5a.
+Updated C502 fields.
+Updated C502 sheetname to 'Gimble'.
+Updated C502 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated C502 footprint filters to 'C_*'.
+Add net Net-(C502-Pad1).
+Connected C502 pin 1 to Net-(C502-Pad1).
+Connected C502 pin 2 to GND.
+Added C801 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C801.
+Changed C801 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 1u.
+Updated C801 symbol association from  to /99163bcd-f204-4e6d-aa95-ab00d27e8f54/a7100240-f85e-4fee-a276-8cc1282bca8f.
+Updated C801 fields.
+Updated C801 sheetname to 'MoP_LCD'.
+Updated C801 sheetfile to '../MoP_LCD.kicad_sch'.
+Updated C801 footprint filters to 'C_*'.
+Connected C801 pin 1 to GND.
+Add net /MoP_LCD/5V.
+Connected C801 pin 2 to /MoP_LCD/5V.
+Added C1001 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C1001.
+Changed C1001 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Updated C1001 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/e43c3da3-525b-4d8f-bd02-28801264add3.
+Updated C1001 fields.
+Updated C1001 sheetname to 'USB-C'.
+Updated C1001 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated C1001 footprint filters to 'C_*'.
+Add net /USB-C/3V3.
+Connected C1001 pin 1 to /USB-C/3V3.
+Connected C1001 pin 2 to GND.
+Added C1002 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C1002.
+Changed C1002 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Updated C1002 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/b2d55700-fb05-4a54-b3ad-fbaf110e0609.
+Updated C1002 fields.
+Updated C1002 sheetname to 'USB-C'.
+Updated C1002 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated C1002 footprint filters to 'C_*'.
+Add net /USB-C/5V.
+Connected C1002 pin 1 to /USB-C/5V.
+Connected C1002 pin 2 to GND.
+Added D201 (footprint 'Diode_SMD:D_0805_2012Metric').
+Changed REF** reference designator to D201.
+Changed D201 value from D_0805_2012Metric to CMD17-21VGC/TR8.
+Updated D201 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/71b5be49-7f01-4c1b-ae6d-ad78e7a8a78a.
+Updated D201 fields.
+Updated D201 sheetname to 'CAN'.
+Updated D201 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated D201 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D201-A).
+Connected D201 pin 2 to Net-(D201-A).
+Add net Net-(D201-K).
+Connected D201 pin 1 to Net-(D201-K).
+Added D202 (footprint 'Diode_SMD:D_0805_2012Metric').
+Changed REF** reference designator to D202.
+Changed D202 value from D_0805_2012Metric to CMD17-21VGC/TR8.
+Updated D202 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/4d05b068-98cc-405f-8114-4b5888f99581.
+Updated D202 fields.
+Updated D202 sheetname to 'CAN'.
+Updated D202 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated D202 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D202-K).
+Connected D202 pin 1 to Net-(D202-K).
+Add net Net-(D202-A).
+Connected D202 pin 2 to Net-(D202-A).
+Added D1001 (footprint 'LED_SMD:LED_0805_2012Metric').
+Changed REF** reference designator to D1001.
+Changed D1001 value from LED_0805_2012Metric to CMD17-21VGC/TR8.
+Updated D1001 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/040cedbb-adcb-4f76-ad51-1502c14fa7a7.
+Updated D1001 fields.
+Updated D1001 sheetname to 'USB-C'.
+Updated D1001 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated D1001 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D1001-A).
+Connected D1001 pin 2 to Net-(D1001-A).
+Add net Net-(D1001-K).
+Connected D1001 pin 1 to Net-(D1001-K).
+Added D1002 (footprint 'LED_SMD:LED_0805_2012Metric').
+Changed REF** reference designator to D1002.
+Changed D1002 value from LED_0805_2012Metric to CMD17-21VGC/TR8.
+Updated D1002 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/98d957ef-08a2-4c45-bec1-a238bdd67707.
+Updated D1002 fields.
+Updated D1002 sheetname to 'USB-C'.
+Updated D1002 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated D1002 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D1002-K).
+Connected D1002 pin 1 to Net-(D1002-K).
+Add net Net-(D1002-A).
+Connected D1002 pin 2 to Net-(D1002-A).
+Added J201 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J201.
+Changed J201 value from PinHeader_1x02_P2.54mm_Vertical to CAN.
+Updated J201 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/ae27cac8-78f0-4d89-867b-e5715a040293.
+Updated J201 fields.
+Updated J201 sheetname to 'CAN'.
+Updated J201 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated J201 footprint filters to 'Connector*:*_1x??_*'.
+Add net /CAN/CANL.
+Connected J201 pin 2 to /CAN/CANL.
+Add net /CAN/CANH.
+Connected J201 pin 1 to /CAN/CANH.
+Added J401 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J401.
+Changed J401 value from PinHeader_1x03_P2.54mm_Vertical to Encoder1.
+Updated J401 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/ce11d85a-eabd-40e5-a160-6b761dce5a7b.
+Updated J401 fields.
+Updated J401 sheetname to 'DC_Motors'.
+Updated J401 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated J401 footprint filters to 'Connector*:*_1x??_*'.
+Connected J401 pin 3 to /DC_Motors/SIG1.
+Connected J401 pin 1 to /DC_Motors/VLED1.
+Connected J401 pin 2 to GND.
+Added J402 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J402.
+Changed J402 value from PinHeader_1x03_P2.54mm_Vertical to Encoder2.
+Updated J402 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/b4228901-fb4a-46bb-a63e-6a19197b0ab8.
+Updated J402 fields.
+Updated J402 sheetname to 'DC_Motors'.
+Updated J402 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated J402 footprint filters to 'Connector*:*_1x??_*'.
+Connected J402 pin 1 to /DC_Motors/VLED2.
+Connected J402 pin 2 to GND.
+Connected J402 pin 3 to /DC_Motors/SIG2.
+Added J403 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J403.
+Changed J403 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to 1x2_Terminal.
+Updated J403 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/77b67374-da23-4333-be7d-9dc35ceb9871.
+Updated J403 fields.
+Updated J403 sheetname to 'DC_Motors'.
+Updated J403 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated J403 footprint filters to 'TerminalBlock*:*'.
+Add net /DC_Motors/LDCM_Y2.
+Connected J403 pin 2 to /DC_Motors/LDCM_Y2.
+Add net /DC_Motors/LDCM_Y1.
+Connected J403 pin 1 to /DC_Motors/LDCM_Y1.
+Added J404 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J404.
+Changed J404 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to 1x2_Terminal.
+Updated J404 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/87593513-0971-4e25-9cd7-c0d5208a10dc.
+Updated J404 fields.
+Updated J404 sheetname to 'DC_Motors'.
+Updated J404 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated J404 footprint filters to 'TerminalBlock*:*'.
+Add net /DC_Motors/RDCM_Y2.
+Connected J404 pin 2 to /DC_Motors/RDCM_Y2.
+Add net /DC_Motors/RDCM_Y1.
+Connected J404 pin 1 to /DC_Motors/RDCM_Y1.
+Added J405 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J405.
+Changed J405 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02.
+Updated J405 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/f90b9a49-8081-4729-89f5-ba9a225fb88d.
+Updated J405 fields.
+Updated J405 sheetname to 'Gimble'.
+Updated J405 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated J405 footprint filters to 'Connector*:*_1x??_*'.
+Connected J405 pin 1 to GND.
+Add net Net-(J405-Pin_2).
+Connected J405 pin 2 to Net-(J405-Pin_2).
+Added J501 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J501.
+Changed J501 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02.
+Updated J501 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/6b247865-d251-4846-abe4-62357853e9d7.
+Updated J501 fields.
+Updated J501 sheetname to 'Gimble'.
+Updated J501 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated J501 footprint filters to 'Connector*:*_1x??_*'.
+Connected J501 pin 1 to GND.
+Add net Net-(J501-Pin_2).
+Connected J501 pin 2 to Net-(J501-Pin_2).
+Added J502 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J502.
+Changed J502 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02.
+Updated J502 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/cfe7059d-fd09-4827-9241-7672a438c224.
+Updated J502 fields.
+Updated J502 sheetname to 'Gimble'.
+Updated J502 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated J502 footprint filters to 'Connector*:*_1x??_*'.
+Add net /Gimble/C1b.
+Connected J502 pin 2 to /Gimble/C1b.
+Add net /Gimble/C1a.
+Connected J502 pin 1 to /Gimble/C1a.
+Added J503 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J503.
+Changed J503 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02.
+Updated J503 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/fe0d8949-5da8-4eab-98bd-addfdd8167ee.
+Updated J503 fields.
+Updated J503 sheetname to 'Gimble'.
+Updated J503 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated J503 footprint filters to 'Connector*:*_1x??_*'.
+Add net /Gimble/C2a.
+Connected J503 pin 1 to /Gimble/C2a.
+Add net /Gimble/C2b.
+Connected J503 pin 2 to /Gimble/C2b.
+Added J504 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J504.
+Changed J504 value from PinHeader_1x03_P2.54mm_Vertical to Camera.
+Updated J504 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/5707818a-60d6-4106-83f1-b56730ad501f.
+Updated J504 fields.
+Updated J504 sheetname to 'Gimble'.
+Updated J504 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated J504 footprint filters to 'Connector*:*_1x??_*'.
+Add net R5V.
+Connected J504 pin 2 to R5V.
+Add net /Gimble/Servo.Camera.
+Connected J504 pin 1 to /Gimble/Servo.Camera.
+Connected J504 pin 3 to GND.
+Added J505 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J505.
+Changed J505 value from PinHeader_1x03_P2.54mm_Vertical to Steering.
+Updated J505 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/34894697-5fd6-4146-8b81-3a83cb09368a.
+Updated J505 fields.
+Updated J505 sheetname to 'Gimble'.
+Updated J505 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated J505 footprint filters to 'Connector*:*_1x??_*'.
+Connected J505 pin 3 to GND.
+Connected J505 pin 2 to R5V.
+Add net /Gimble/Servo.Steering.
+Connected J505 pin 1 to /Gimble/Servo.Steering.
+Added J601 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x19_P2.54mm_Vertical').
+Changed REF** reference designator to J601.
+Changed J601 value from PinHeader_2x19_P2.54mm_Vertical to CN7.
+Updated J601 symbol association from  to /1acad438-9ac5-47a5-8378-e41ea0c2add8/d8a54ee5-6d8e-40c2-a88c-e683b25b6e30.
+Updated J601 fields.
+Updated J601 sheetname to 'MCU'.
+Updated J601 sheetfile to '../MoP_MCU.kicad_sch'.
+Updated J601 footprint filters to 'Connector*:*_2x??_*'.
+Add net /DC_Motors/ENC.L.
+Connected J601 pin 28 to /DC_Motors/ENC.L.
+Connected J601 pin 20 to GND.
+Connected J601 pin 22 to GND.
+Add net unconnected-(J601-Pin_26-Pad26).
+Connected J601 pin 26 to unconnected-(J601-Pin_26-Pad26).
+Add net unconnected-(J601-Pin_7-Pad7).
+Connected J601 pin 7 to unconnected-(J601-Pin_7-Pad7).
+Add net unconnected-(J601-Pin_24-Pad24).
+Connected J601 pin 24 to unconnected-(J601-Pin_24-Pad24).
+Add net unconnected-(J601-Pin_31-Pad31).
+Connected J601 pin 31 to unconnected-(J601-Pin_31-Pad31).
+Add net unconnected-(J601-Pin_18-Pad18).
+Connected J601 pin 18 to unconnected-(J601-Pin_18-Pad18).
+Add net /Gimble/Stepper0.
+Connected J601 pin 38 to /Gimble/Stepper0.
+Add net /DC_Motors/LDCM.2.
+Connected J601 pin 2 to /DC_Motors/LDCM.2.
+Add net /DC_Motors/RDCM.1.
+Connected J601 pin 1 to /DC_Motors/RDCM.1.
+Add net unconnected-(J601-Pin_5-Pad5).
+Connected J601 pin 5 to unconnected-(J601-Pin_5-Pad5).
+Add net /Gimble/Stepper2.
+Connected J601 pin 37 to /Gimble/Stepper2.
+Add net unconnected-(J601-Pin_4-Pad4).
+Connected J601 pin 4 to unconnected-(J601-Pin_4-Pad4).
+Add net /DC_Motors/ENC.R.
+Connected J601 pin 30 to /DC_Motors/ENC.R.
+Connected J601 pin 19 to GND.
+Add net unconnected-(J601-Pin_14-Pad14).
+Connected J601 pin 14 to unconnected-(J601-Pin_14-Pad14).
+Add net unconnected-(J601-Pin_11-Pad11).
+Connected J601 pin 11 to unconnected-(J601-Pin_11-Pad11).
+Add net unconnected-(J601-Pin_13-Pad13).
+Connected J601 pin 13 to unconnected-(J601-Pin_13-Pad13).
+Add net /MCU/DAC1.
+Connected J601 pin 34 to /MCU/DAC1.
+Add net /Gimble/Stepper3.
+Connected J601 pin 35 to /Gimble/Stepper3.
+Add net /MCU/SPI.CS1.
+Connected J601 pin 23 to /MCU/SPI.CS1.
+Add net /DC_Motors/LDCM.1.
+Connected J601 pin 3 to /DC_Motors/LDCM.1.
+Add net unconnected-(J601-Pin_12-Pad12).
+Connected J601 pin 12 to unconnected-(J601-Pin_12-Pad12).
+Add net /MCU/DAC0.
+Connected J601 pin 32 to /MCU/DAC0.
+Add net unconnected-(J601-Pin_33-Pad33).
+Connected J601 pin 33 to unconnected-(J601-Pin_33-Pad33).
+Add net /MCU/SPI.CS0.
+Connected J601 pin 15 to /MCU/SPI.CS0.
+Add net /MCU/E5V.
+Connected J601 pin 6 to /MCU/E5V.
+Add net /Gimble/Stepper1.
+Connected J601 pin 36 to /Gimble/Stepper1.
+Add net /DAC_ADC/I2C.SCL.
+Connected J601 pin 17 to /DAC_ADC/I2C.SCL.
+Add net unconnected-(J601-Pin_16-Pad16).
+Connected J601 pin 16 to unconnected-(J601-Pin_16-Pad16).
+Add net /DAC_ADC/I2C.SDA.
+Connected J601 pin 21 to /DAC_ADC/I2C.SDA.
+Add net unconnected-(J601-Pin_9-Pad9).
+Connected J601 pin 9 to unconnected-(J601-Pin_9-Pad9).
+Add net /MCU/INT.
+Connected J601 pin 29 to /MCU/INT.
+Add net unconnected-(J601-Pin_10-Pad10).
+Connected J601 pin 10 to unconnected-(J601-Pin_10-Pad10).
+Add net /MCU/SPI.CS3.
+Connected J601 pin 27 to /MCU/SPI.CS3.
+Connected J601 pin 8 to GND.
+Add net /MCU/SPI.CS2.
+Connected J601 pin 25 to /MCU/SPI.CS2.
+Added J602 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x19_P2.54mm_Vertical').
+Changed REF** reference designator to J602.
+Changed J602 value from PinHeader_2x19_P2.54mm_Vertical to CN10.
+Updated J602 symbol association from  to /1acad438-9ac5-47a5-8378-e41ea0c2add8/e1ffbace-cd3a-46d0-ac1b-7a72fa331de6.
+Updated J602 fields.
+Updated J602 sheetname to 'MCU'.
+Updated J602 sheetfile to '../MoP_MCU.kicad_sch'.
+Updated J602 footprint filters to 'Connector*:*_2x??_*'.
+Add net unconnected-(J602-Pin_8-Pad8).
+Connected J602 pin 8 to unconnected-(J602-Pin_8-Pad8).
+Add net /MCU/UART.Tx.
+Connected J602 pin 25 to /MCU/UART.Tx.
+Connected J602 pin 28 to /Gimble/Servo.Steering.
+Add net /DAC_ADC/MCU_ADC2.
+Connected J602 pin 17 to /DAC_ADC/MCU_ADC2.
+Add net /MCU/SPI.SCK.
+Connected J602 pin 31 to /MCU/SPI.SCK.
+Add net unconnected-(J602-Pin_23-Pad23).
+Connected J602 pin 23 to unconnected-(J602-Pin_23-Pad23).
+Add net /MCU/DAC2.
+Connected J602 pin 11 to /MCU/DAC2.
+Add net unconnected-(J602-Pin_38-Pad38).
+Connected J602 pin 38 to unconnected-(J602-Pin_38-Pad38).
+Connected J602 pin 26 to /Gimble/Servo.Camera.
+Add net /CAN/CAN.Rx.
+Connected J602 pin 5 to /CAN/CAN.Rx.
+Add net /MCU/LCD.RS.
+Connected J602 pin 16 to /MCU/LCD.RS.
+Add net /CAN/CAN.Tx.
+Connected J602 pin 3 to /CAN/CAN.Tx.
+Add net /Gimble/LMT.L.
+Connected J602 pin 6 to /Gimble/LMT.L.
+Add net unconnected-(J602-Pin_10-Pad10).
+Connected J602 pin 10 to unconnected-(J602-Pin_10-Pad10).
+Add net /DAC_ADC/MCU_ADC0.
+Connected J602 pin 13 to /DAC_ADC/MCU_ADC0.
+Add net unconnected-(J602-Pin_37-Pad37).
+Connected J602 pin 37 to unconnected-(J602-Pin_37-Pad37).
+Add net R3V3.
+Connected J602 pin 7 to R3V3.
+Add net /MCU/SPI.MISO.
+Connected J602 pin 27 to /MCU/SPI.MISO.
+Add net /MCU/SPI.MOSI.
+Connected J602 pin 29 to /MCU/SPI.MOSI.
+Add net /MCU/I2C2.SCL.
+Connected J602 pin 21 to /MCU/I2C2.SCL.
+Add net /MCU/ToF.Trigger.
+Connected J602 pin 12 to /MCU/ToF.Trigger.
+Add net /MCU/UART3.Rx.
+Connected J602 pin 18 to /MCU/UART3.Rx.
+Add net unconnected-(J602-Pin_34-Pad34).
+Connected J602 pin 34 to unconnected-(J602-Pin_34-Pad34).
+Connected J602 pin 9 to GND.
+Add net /Gimble/LMT.R.
+Connected J602 pin 4 to /Gimble/LMT.R.
+Add net /DC_Motors/RDCM.EN.
+Connected J602 pin 22 to /DC_Motors/RDCM.EN.
+Add net /MCU/LCD.EN.
+Connected J602 pin 14 to /MCU/LCD.EN.
+Connected J602 pin 20 to GND.
+Add net /MCU/ToF.Echo.
+Connected J602 pin 19 to /MCU/ToF.Echo.
+Add net /MCU/I2C2.SDA.
+Connected J602 pin 33 to /MCU/I2C2.SDA.
+Add net unconnected-(J602-Pin_36-Pad36).
+Connected J602 pin 36 to unconnected-(J602-Pin_36-Pad36).
+Add net /DAC_ADC/MCU_ADC1.
+Connected J602 pin 15 to /DAC_ADC/MCU_ADC1.
+Add net /DC_Motors/RDCM.2.
+Connected J602 pin 1 to /DC_Motors/RDCM.2.
+Add net unconnected-(J602-Pin_30-Pad30).
+Connected J602 pin 30 to unconnected-(J602-Pin_30-Pad30).
+Add net unconnected-(J602-Pin_35-Pad35).
+Connected J602 pin 35 to unconnected-(J602-Pin_35-Pad35).
+Add net /MCU/CAN.EN.
+Connected J602 pin 2 to /MCU/CAN.EN.
+Connected J602 pin 32 to GND.
+Add net /DC_Motors/LDCM.EN.
+Connected J602 pin 24 to /DC_Motors/LDCM.EN.
+Added J701 (footprint 'Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical').
+Changed REF** reference designator to J701.
+Changed J701 value from PinHeader_2x19_P1.00mm_Vertical to Debug_02x22.
+Updated J701 symbol association from  to /6329eb5a-4341-4960-b0c2-1f932b101e51/e82f26d8-af47-471d-972d-3caa2d7df870.
+Updated J701 fields.
+Updated J701 sheetname to 'MoP_Connectors'.
+Updated J701 sheetfile to '../MoP_Connectors.kicad_sch'.
+Updated J701 footprint filters to 'Connector*:*_2x??_*'.
+Connected J701 pin 32 to GND.
+Connected J701 pin 30 to GND.
+Connected J701 pin 17 to /Gimble/Servo.Camera.
+Connected J701 pin 34 to GND.
+Connected J701 pin 27 to GND.
+Connected J701 pin 28 to GND.
+Connected J701 pin 8 to /DC_Motors/ENC.R.
+Connected J701 pin 24 to GND.
+Connected J701 pin 11 to /DC_Motors/RDCM.1.
+Connected J701 pin 13 to /DC_Motors/RDCM.EN.
+Connected J701 pin 16 to /DC_Motors/LDCM.EN.
+Connected J701 pin 12 to /DC_Motors/RDCM.2.
+Connected J701 pin 20 to /Gimble/Stepper1.
+Connected J701 pin 38 to GND.
+Add net /MCU/LCD.D5.
+Connected J701 pin 4 to /MCU/LCD.D5.
+Connected J701 pin 23 to GND.
+Add net /MCU/LCD.D7.
+Connected J701 pin 6 to /MCU/LCD.D7.
+Connected J701 pin 1 to /MCU/LCD.RS.
+Connected J701 pin 14 to /DC_Motors/LDCM.1.
+Connected J701 pin 21 to /Gimble/Stepper2.
+Connected J701 pin 19 to /Gimble/Stepper0.
+Connected J701 pin 33 to GND.
+Connected J701 pin 2 to /MCU/LCD.EN.
+Connected J701 pin 26 to GND.
+Connected J701 pin 18 to /Gimble/Servo.Steering.
+Add net /MCU/LCD.D6.
+Connected J701 pin 5 to /MCU/LCD.D6.
+Connected J701 pin 22 to /Gimble/Stepper3.
+Connected J701 pin 10 to /Gimble/LMT.R.
+Add net /MCU/LCD.D4.
+Connected J701 pin 3 to /MCU/LCD.D4.
+Connected J701 pin 36 to GND.
+Connected J701 pin 37 to GND.
+Connected J701 pin 25 to GND.
+Connected J701 pin 29 to GND.
+Connected J701 pin 31 to GND.
+Connected J701 pin 15 to /DC_Motors/LDCM.2.
+Connected J701 pin 9 to /Gimble/LMT.L.
+Connected J701 pin 7 to /DC_Motors/ENC.L.
+Connected J701 pin 35 to GND.
+Added J702 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical').
+Changed REF** reference designator to J702.
+Changed J702 value from PinHeader_2x20_P2.54mm_Vertical to PWR_02x20.
+Updated J702 symbol association from  to /6329eb5a-4341-4960-b0c2-1f932b101e51/1fd7d1b0-9382-4778-9a55-b6a877fdb348.
+Updated J702 fields.
+Updated J702 sheetname to 'MoP_Connectors'.
+Updated J702 sheetfile to '../MoP_Connectors.kicad_sch'.
+Updated J702 footprint filters to 'Connector*:*_2x??_*'.
+Add net unconnected-(J702-Pin_26-Pad26).
+Connected J702 pin 26 to unconnected-(J702-Pin_26-Pad26).
+Add net unconnected-(J702-Pin_36-Pad36).
+Connected J702 pin 36 to unconnected-(J702-Pin_36-Pad36).
+Add net unconnected-(J702-Pin_12-Pad12).
+Connected J702 pin 12 to unconnected-(J702-Pin_12-Pad12).
+Add net unconnected-(J702-Pin_10-Pad10).
+Connected J702 pin 10 to unconnected-(J702-Pin_10-Pad10).
+Add net unconnected-(J702-Pin_24-Pad24).
+Connected J702 pin 24 to unconnected-(J702-Pin_24-Pad24).
+Add net unconnected-(J702-Pin_34-Pad34).
+Connected J702 pin 34 to unconnected-(J702-Pin_34-Pad34).
+Add net unconnected-(J702-Pin_11-Pad11).
+Connected J702 pin 11 to unconnected-(J702-Pin_11-Pad11).
+Add net unconnected-(J702-Pin_5-Pad5).
+Connected J702 pin 5 to unconnected-(J702-Pin_5-Pad5).
+Add net unconnected-(J702-Pin_23-Pad23).
+Connected J702 pin 23 to unconnected-(J702-Pin_23-Pad23).
+Add net unconnected-(J702-Pin_31-Pad31).
+Connected J702 pin 31 to unconnected-(J702-Pin_31-Pad31).
+Add net unconnected-(J702-Pin_25-Pad25).
+Connected J702 pin 25 to unconnected-(J702-Pin_25-Pad25).
+Add net unconnected-(J702-Pin_20-Pad20).
+Connected J702 pin 20 to unconnected-(J702-Pin_20-Pad20).
+Add net unconnected-(J702-Pin_28-Pad28).
+Connected J702 pin 28 to unconnected-(J702-Pin_28-Pad28).
+Add net unconnected-(J702-Pin_37-Pad37).
+Connected J702 pin 37 to unconnected-(J702-Pin_37-Pad37).
+Add net unconnected-(J702-Pin_1-Pad1).
+Connected J702 pin 1 to unconnected-(J702-Pin_1-Pad1).
+Add net unconnected-(J702-Pin_40-Pad40).
+Connected J702 pin 40 to unconnected-(J702-Pin_40-Pad40).
+Add net unconnected-(J702-Pin_32-Pad32).
+Connected J702 pin 32 to unconnected-(J702-Pin_32-Pad32).
+Add net unconnected-(J702-Pin_18-Pad18).
+Connected J702 pin 18 to unconnected-(J702-Pin_18-Pad18).
+Add net unconnected-(J702-Pin_9-Pad9).
+Connected J702 pin 9 to unconnected-(J702-Pin_9-Pad9).
+Add net unconnected-(J702-Pin_7-Pad7).
+Connected J702 pin 7 to unconnected-(J702-Pin_7-Pad7).
+Add net unconnected-(J702-Pin_13-Pad13).
+Connected J702 pin 13 to unconnected-(J702-Pin_13-Pad13).
+Add net unconnected-(J702-Pin_39-Pad39).
+Connected J702 pin 39 to unconnected-(J702-Pin_39-Pad39).
+Add net unconnected-(J702-Pin_33-Pad33).
+Connected J702 pin 33 to unconnected-(J702-Pin_33-Pad33).
+Add net unconnected-(J702-Pin_35-Pad35).
+Connected J702 pin 35 to unconnected-(J702-Pin_35-Pad35).
+Add net unconnected-(J702-Pin_16-Pad16).
+Connected J702 pin 16 to unconnected-(J702-Pin_16-Pad16).
+Add net unconnected-(J702-Pin_19-Pad19).
+Connected J702 pin 19 to unconnected-(J702-Pin_19-Pad19).
+Add net unconnected-(J702-Pin_30-Pad30).
+Connected J702 pin 30 to unconnected-(J702-Pin_30-Pad30).
+Add net unconnected-(J702-Pin_3-Pad3).
+Connected J702 pin 3 to unconnected-(J702-Pin_3-Pad3).
+Add net unconnected-(J702-Pin_14-Pad14).
+Connected J702 pin 14 to unconnected-(J702-Pin_14-Pad14).
+Add net unconnected-(J702-Pin_17-Pad17).
+Connected J702 pin 17 to unconnected-(J702-Pin_17-Pad17).
+Add net unconnected-(J702-Pin_6-Pad6).
+Connected J702 pin 6 to unconnected-(J702-Pin_6-Pad6).
+Add net unconnected-(J702-Pin_4-Pad4).
+Connected J702 pin 4 to unconnected-(J702-Pin_4-Pad4).
+Add net unconnected-(J702-Pin_38-Pad38).
+Connected J702 pin 38 to unconnected-(J702-Pin_38-Pad38).
+Add net unconnected-(J702-Pin_2-Pad2).
+Connected J702 pin 2 to unconnected-(J702-Pin_2-Pad2).
+Add net unconnected-(J702-Pin_21-Pad21).
+Connected J702 pin 21 to unconnected-(J702-Pin_21-Pad21).
+Add net unconnected-(J702-Pin_27-Pad27).
+Connected J702 pin 27 to unconnected-(J702-Pin_27-Pad27).
+Add net unconnected-(J702-Pin_29-Pad29).
+Connected J702 pin 29 to unconnected-(J702-Pin_29-Pad29).
+Add net unconnected-(J702-Pin_15-Pad15).
+Connected J702 pin 15 to unconnected-(J702-Pin_15-Pad15).
+Add net unconnected-(J702-Pin_22-Pad22).
+Connected J702 pin 22 to unconnected-(J702-Pin_22-Pad22).
+Add net unconnected-(J702-Pin_8-Pad8).
+Connected J702 pin 8 to unconnected-(J702-Pin_8-Pad8).
+Added J703 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical').
+Changed REF** reference designator to J703.
+Changed J703 value from PinHeader_2x20_P2.54mm_Vertical to COMMS_02x20.
+Updated J703 symbol association from  to /6329eb5a-4341-4960-b0c2-1f932b101e51/2c2d614a-1f39-4a9f-a093-245f610a1462.
+Updated J703 fields.
+Updated J703 sheetname to 'MoP_Connectors'.
+Updated J703 sheetfile to '../MoP_Connectors.kicad_sch'.
+Updated J703 footprint filters to 'Connector*:*_2x??_*'.
+Add net unconnected-(J703-Pin_3-Pad3).
+Connected J703 pin 3 to unconnected-(J703-Pin_3-Pad3).
+Add net unconnected-(J703-Pin_24-Pad24).
+Connected J703 pin 24 to unconnected-(J703-Pin_24-Pad24).
+Add net unconnected-(J703-Pin_19-Pad19).
+Connected J703 pin 19 to unconnected-(J703-Pin_19-Pad19).
+Add net unconnected-(J703-Pin_9-Pad9).
+Connected J703 pin 9 to unconnected-(J703-Pin_9-Pad9).
+Add net unconnected-(J703-Pin_35-Pad35).
+Connected J703 pin 35 to unconnected-(J703-Pin_35-Pad35).
+Add net unconnected-(J703-Pin_10-Pad10).
+Connected J703 pin 10 to unconnected-(J703-Pin_10-Pad10).
+Add net unconnected-(J703-Pin_34-Pad34).
+Connected J703 pin 34 to unconnected-(J703-Pin_34-Pad34).
+Add net unconnected-(J703-Pin_37-Pad37).
+Connected J703 pin 37 to unconnected-(J703-Pin_37-Pad37).
+Add net unconnected-(J703-Pin_33-Pad33).
+Connected J703 pin 33 to unconnected-(J703-Pin_33-Pad33).
+Add net unconnected-(J703-Pin_26-Pad26).
+Connected J703 pin 26 to unconnected-(J703-Pin_26-Pad26).
+Add net unconnected-(J703-Pin_36-Pad36).
+Connected J703 pin 36 to unconnected-(J703-Pin_36-Pad36).
+Add net unconnected-(J703-Pin_25-Pad25).
+Connected J703 pin 25 to unconnected-(J703-Pin_25-Pad25).
+Add net unconnected-(J703-Pin_2-Pad2).
+Connected J703 pin 2 to unconnected-(J703-Pin_2-Pad2).
+Add net unconnected-(J703-Pin_29-Pad29).
+Connected J703 pin 29 to unconnected-(J703-Pin_29-Pad29).
+Add net unconnected-(J703-Pin_7-Pad7).
+Connected J703 pin 7 to unconnected-(J703-Pin_7-Pad7).
+Add net unconnected-(J703-Pin_23-Pad23).
+Connected J703 pin 23 to unconnected-(J703-Pin_23-Pad23).
+Add net unconnected-(J703-Pin_27-Pad27).
+Connected J703 pin 27 to unconnected-(J703-Pin_27-Pad27).
+Add net unconnected-(J703-Pin_40-Pad40).
+Connected J703 pin 40 to unconnected-(J703-Pin_40-Pad40).
+Add net unconnected-(J703-Pin_11-Pad11).
+Connected J703 pin 11 to unconnected-(J703-Pin_11-Pad11).
+Add net unconnected-(J703-Pin_20-Pad20).
+Connected J703 pin 20 to unconnected-(J703-Pin_20-Pad20).
+Add net unconnected-(J703-Pin_14-Pad14).
+Connected J703 pin 14 to unconnected-(J703-Pin_14-Pad14).
+Add net unconnected-(J703-Pin_15-Pad15).
+Connected J703 pin 15 to unconnected-(J703-Pin_15-Pad15).
+Add net unconnected-(J703-Pin_6-Pad6).
+Connected J703 pin 6 to unconnected-(J703-Pin_6-Pad6).
+Add net unconnected-(J703-Pin_30-Pad30).
+Connected J703 pin 30 to unconnected-(J703-Pin_30-Pad30).
+Add net unconnected-(J703-Pin_32-Pad32).
+Connected J703 pin 32 to unconnected-(J703-Pin_32-Pad32).
+Add net unconnected-(J703-Pin_38-Pad38).
+Connected J703 pin 38 to unconnected-(J703-Pin_38-Pad38).
+Add net unconnected-(J703-Pin_31-Pad31).
+Connected J703 pin 31 to unconnected-(J703-Pin_31-Pad31).
+Add net unconnected-(J703-Pin_16-Pad16).
+Connected J703 pin 16 to unconnected-(J703-Pin_16-Pad16).
+Add net unconnected-(J703-Pin_39-Pad39).
+Connected J703 pin 39 to unconnected-(J703-Pin_39-Pad39).
+Add net unconnected-(J703-Pin_8-Pad8).
+Connected J703 pin 8 to unconnected-(J703-Pin_8-Pad8).
+Add net unconnected-(J703-Pin_12-Pad12).
+Connected J703 pin 12 to unconnected-(J703-Pin_12-Pad12).
+Add net unconnected-(J703-Pin_18-Pad18).
+Connected J703 pin 18 to unconnected-(J703-Pin_18-Pad18).
+Add net unconnected-(J703-Pin_1-Pad1).
+Connected J703 pin 1 to unconnected-(J703-Pin_1-Pad1).
+Add net unconnected-(J703-Pin_21-Pad21).
+Connected J703 pin 21 to unconnected-(J703-Pin_21-Pad21).
+Add net unconnected-(J703-Pin_22-Pad22).
+Connected J703 pin 22 to unconnected-(J703-Pin_22-Pad22).
+Add net unconnected-(J703-Pin_28-Pad28).
+Connected J703 pin 28 to unconnected-(J703-Pin_28-Pad28).
+Add net unconnected-(J703-Pin_5-Pad5).
+Connected J703 pin 5 to unconnected-(J703-Pin_5-Pad5).
+Add net unconnected-(J703-Pin_17-Pad17).
+Connected J703 pin 17 to unconnected-(J703-Pin_17-Pad17).
+Add net unconnected-(J703-Pin_4-Pad4).
+Connected J703 pin 4 to unconnected-(J703-Pin_4-Pad4).
+Add net unconnected-(J703-Pin_13-Pad13).
+Connected J703 pin 13 to unconnected-(J703-Pin_13-Pad13).
+Added J801 (footprint 'Connector_PinHeader_1.00mm:PinHeader_1x16_P1.00mm_Vertical').
+Changed REF** reference designator to J801.
+Changed J801 value from PinHeader_1x16_P1.00mm_Vertical to Conn_01x16.
+Updated J801 symbol association from  to /99163bcd-f204-4e6d-aa95-ab00d27e8f54/36a177ff-0e3a-4220-8b91-0e3b05a27cfb.
+Updated J801 fields.
+Updated J801 sheetname to 'MoP_LCD'.
+Updated J801 sheetfile to '../MoP_LCD.kicad_sch'.
+Updated J801 footprint filters to 'Connector*:*_1x??_*'.
+Connected J801 pin 13 to /MCU/LCD.D6.
+Add net Net-(J801-Pin_3).
+Connected J801 pin 3 to Net-(J801-Pin_3).
+Add net unconnected-(J801-Pin_8-Pad8).
+Connected J801 pin 8 to unconnected-(J801-Pin_8-Pad8).
+Add net unconnected-(J801-Pin_10-Pad10).
+Connected J801 pin 10 to unconnected-(J801-Pin_10-Pad10).
+Connected J801 pin 5 to GND.
+Connected J801 pin 12 to /MCU/LCD.D5.
+Connected J801 pin 11 to /MCU/LCD.D4.
+Connected J801 pin 16 to GND.
+Connected J801 pin 4 to /MCU/LCD.RS.
+Connected J801 pin 6 to /MCU/LCD.EN.
+Connected J801 pin 15 to /MoP_LCD/5V.
+Connected J801 pin 14 to /MCU/LCD.D7.
+Add net unconnected-(J801-Pin_7-Pad7).
+Connected J801 pin 7 to unconnected-(J801-Pin_7-Pad7).
+Add net unconnected-(J801-Pin_9-Pad9).
+Connected J801 pin 9 to unconnected-(J801-Pin_9-Pad9).
+Connected J801 pin 1 to GND.
+Connected J801 pin 2 to /MoP_LCD/5V.
+Added C201 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Added J901 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J901.
+Changed J901 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04.
+Updated J901 symbol association from  to /ac3f278b-d235-4891-b209-9445f8633f0b/1c9f1b9e-3885-489e-91ae-15905e2d3405.
+Updated J901 fields.
+Updated J901 sheetname to 'Sensors'.
+Updated J901 sheetfile to '../MoP_Sensors.kicad_sch'.
+Updated J901 footprint filters to 'Connector*:*_1x??_*'.
+Connected J901 pin 1 to R5V.
+Connected J901 pin 4 to GND.
+Add net /Sensors/Echo.
+Connected J901 pin 3 to /Sensors/Echo.
+Add net /Sensors/Trigger.
+Connected J901 pin 2 to /Sensors/Trigger.
+Changed REF** reference designator to C201.
+Added J902 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J902.
+Changed J902 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04.
+Updated J902 symbol association from  to /ac3f278b-d235-4891-b209-9445f8633f0b/471b6619-0b0f-4383-a835-027f07da1ecf.
+Updated J902 fields.
+Updated J902 sheetname to 'Sensors'.
+Updated J902 sheetfile to '../MoP_Sensors.kicad_sch'.
+Updated J902 footprint filters to 'Connector*:*_1x??_*'.
+Connected J902 pin 3 to /DAC_ADC/I2C.SDA.
+Connected J902 pin 2 to /DAC_ADC/I2C.SCL.
+Connected J902 pin 4 to GND.
+Connected J902 pin 1 to R5V.
+Changed C201 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Added J903 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J903.
+Changed J903 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04.
+Updated J903 symbol association from  to /ac3f278b-d235-4891-b209-9445f8633f0b/56d24357-927f-4c80-a64f-e98dbef0434b.
+Updated J903 fields.
+Updated J903 sheetname to 'Sensors'.
+Updated J903 sheetfile to '../MoP_Sensors.kicad_sch'.
+Updated J903 footprint filters to 'Connector*:*_1x??_*'.
+Add net /MCU/SPI.SCLK.
+Connected J903 pin 1 to /MCU/SPI.SCLK.
+Connected J903 pin 2 to /MCU/SPI.MISO.
+Add net /MCU/SPI.CS.
+Connected J903 pin 4 to /MCU/SPI.CS.
+Connected J903 pin 3 to /MCU/SPI.MOSI.
+Updated C201 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/86b421c9-b89d-4f9e-b802-b26be2a9252b.
+Added J1001 (footprint 'Nigels_Library:GCT_USB4105-GF-A').
+Changed REF** reference designator to J1001.
+Changed J1001 value from GCT_USB4105-GF-A to USB4105-GF-A.
+Updated J1001 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/3361b886-27e9-4c05-a56c-b15b8340461e.
+Updated J1001 fields.
+Updated J1001 sheetname to 'USB-C'.
+Updated J1001 sheetfile to '../MoP_USB-C.kicad_sch'.
+Add net /USB-C/DP.
+Connected J1001 pin A6 to /USB-C/DP.
+Add net unconnected-(J1001-SBU2-PadB8).
+Connected J1001 pin B8 to unconnected-(J1001-SBU2-PadB8).
+Add net /USB-C/CC1.
+Connected J1001 pin B5 to /USB-C/CC1.
+Connected J1001 pin SH1 to GND.
+Connected J1001 pin B1_A12 to GND.
+Add net unconnected-(J1001-SBU1-PadA8).
+Connected J1001 pin A8 to unconnected-(J1001-SBU1-PadA8).
+Add net /USB-C/CC2.
+Connected J1001 pin A5 to /USB-C/CC2.
+Add net /USB-C/DN.
+Connected J1001 pin A7 to /USB-C/DN.
+Connected J1001 pin B6 to /USB-C/DP.
+Connected J1001 pin B4_A9 to /USB-C/5V.
+Connected J1001 pin SH3 to GND.
+Connected J1001 pin SH4 to GND.
+Connected J1001 pin A4_B9 to /USB-C/5V.
+Connected J1001 pin B7 to /USB-C/DN.
+Connected J1001 pin SH2 to GND.
+Connected J1001 pin A1_B12 to GND.
+Updated C201 fields.
+Added JP201 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP201.
+Changed JP201 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP201 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/6d6e16fe-add5-42ee-88f1-c8cff56401fd.
+Updated JP201 fields.
+Updated JP201 sheetname to 'CAN'.
+Updated JP201 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated JP201 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP201 pin 2 to Net-(JP201-B).
+Connected JP201 pin 1 to R5V.
+Updated C201 sheetname to 'CAN'.
+Added JP202 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP202.
+Changed JP202 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP202 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/199ab1b7-74e6-495b-aba8-66fdc675ed38.
+Updated JP202 fields.
+Updated JP202 sheetname to 'CAN'.
+Updated JP202 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated JP202 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP202 pin 1 to R3V3.
+Connected JP202 pin 2 to Net-(JP202-B).
+Updated C201 sheetfile to '../MoP_CAN.kicad_sch'.
+Added JP301 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP301.
+Changed JP301 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP301 symbol association from  to /5a038cf7-6217-4458-9ae0-abd285dad4a8/f97167bd-8331-417f-9f81-5a1988a0d49e.
+Updated JP301 fields.
+Updated JP301 sheetname to 'DAC_ADC'.
+Updated JP301 sheetfile to '../MoP_DAC_ADC.kicad_sch'.
+Updated JP301 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP301 pin 1 to R5V.
+Connected JP301 pin 2 to /DAC_ADC/VDD.
+Updated C201 footprint filters to 'C_*'.
+Added JP401 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP401.
+Changed JP401 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP401 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/bf6ade4d-f082-49e5-80af-d3366fbb3c6d.
+Updated JP401 fields.
+Updated JP401 sheetname to 'DC_Motors'.
+Updated JP401 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated JP401 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP401 pin 2 to /DC_Motors/5V.
+Connected JP401 pin 1 to R5V.
+Add net Net-(JP202-B).
+Added JP402 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP402.
+Changed JP402 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP402 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/816ebe7d-5ad1-425a-b374-92ba42672d85.
+Updated JP402 fields.
+Updated JP402 sheetname to 'DC_Motors'.
+Updated JP402 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated JP402 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Add net VBATT.
+Connected JP402 pin 1 to VBATT.
+Add net /DC_Motors/VS.
+Connected JP402 pin 2 to /DC_Motors/VS.
+Connected C201 pin 1 to Net-(JP202-B).
+Added JP501 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP501.
+Changed JP501 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP501 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/d9fe9e71-9711-4a31-bab8-3831b8dc3114.
+Updated JP501 fields.
+Updated JP501 sheetname to 'Gimble'.
+Updated JP501 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated JP501 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Add net /Gimble/VCC.
+Connected JP501 pin 2 to /Gimble/VCC.
+Connected JP501 pin 1 to R5V.
+Add net GND.
+Added JP601 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP601.
+Changed JP601 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP601 symbol association from  to /1acad438-9ac5-47a5-8378-e41ea0c2add8/b885e1fc-8160-4966-a90a-d1fe5620b848.
+Updated JP601 fields.
+Updated JP601 sheetname to 'MCU'.
+Updated JP601 sheetfile to '../MoP_MCU.kicad_sch'.
+Updated JP601 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP601 pin 1 to R5V.
+Connected JP601 pin 2 to /MCU/E5V.
+Connected C201 pin 2 to GND.
+Added JP801 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP801.
+Changed JP801 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP801 symbol association from  to /99163bcd-f204-4e6d-aa95-ab00d27e8f54/dd569fc5-6ee0-483b-a011-eb2867d09c62.
+Updated JP801 fields.
+Updated JP801 sheetname to 'MoP_LCD'.
+Updated JP801 sheetfile to '../MoP_LCD.kicad_sch'.
+Updated JP801 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP801 pin 1 to R5V.
+Connected JP801 pin 2 to /MoP_LCD/5V.
+Added C202 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Added JP1001 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP1001.
+Changed JP1001 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP1001 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/57bbc742-6533-48b1-9dc1-67ef3e4076a8.
+Updated JP1001 fields.
+Updated JP1001 sheetname to 'USB-C'.
+Updated JP1001 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated JP1001 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP1001 pin 1 to R3V3.
+Connected JP1001 pin 2 to /USB-C/3V3.
+Changed REF** reference designator to C202.
+Added JP1002 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to JP1002.
+Changed JP1002 value from PinHeader_1x02_P2.54mm_Vertical to Jumper_2_Bridged.
+Updated JP1002 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/247da2cd-6ff9-4baf-a9eb-0d85dcee620c.
+Updated JP1002 fields.
+Updated JP1002 sheetname to 'USB-C'.
+Updated JP1002 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated JP1002 footprint filters to 'Jumper* TestPoint*2Pads* TestPoint*Bridge*'.
+Connected JP1002 pin 2 to /USB-C/5V.
+Connected JP1002 pin 1 to R5V.
+Changed C202 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Added P801 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to P801.
+Changed P801 value from PinHeader_1x03_P2.54mm_Vertical to 10k.
+Updated P801 symbol association from  to /99163bcd-f204-4e6d-aa95-ab00d27e8f54/920e0fa6-76bc-4c1f-b3e1-106877a56b88.
+Updated P801 fields.
+Updated P801 sheetname to 'MoP_LCD'.
+Updated P801 sheetfile to '../MoP_LCD.kicad_sch'.
+Updated P801 footprint filters to 'Potentiometer*'.
+Connected P801 pin 3 to GND.
+Connected P801 pin 1 to /MoP_LCD/5V.
+Connected P801 pin 2 to Net-(J801-Pin_3).
+Updated C202 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/3154bead-3e58-48b6-a8c0-bbd5631f88ef.
+Added R201 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R201.
+Changed R201 value from R_0805_2012Metric to 120.
+Updated R201 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/e986c07d-9a87-49c0-8d9a-9f68f911b9fa.
+Updated R201 fields.
+Updated R201 sheetname to 'CAN'.
+Updated R201 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated R201 footprint filters to 'R_*'.
+Connected R201 pin 2 to /CAN/CANL.
+Connected R201 pin 1 to /CAN/CANH.
+Updated C202 fields.
+Added R202 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R202.
+Changed R202 value from R_0805_2012Metric to 68.
+Updated R202 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/69b175e8-401c-44e6-a8e8-143cac28282a.
+Updated R202 fields.
+Updated R202 sheetname to 'CAN'.
+Updated R202 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated R202 footprint filters to 'R_*'.
+Connected R202 pin 2 to GND.
+Connected R202 pin 1 to Net-(D201-K).
+Updated C202 sheetname to 'CAN'.
+Added R203 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R203.
+Changed R203 value from R_0805_2012Metric to 68.
+Updated R203 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/a85138a7-09c0-42ba-8fa1-004cf7e84b6e.
+Updated R203 fields.
+Updated R203 sheetname to 'CAN'.
+Updated R203 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated R203 footprint filters to 'R_*'.
+Connected R203 pin 1 to Net-(D202-K).
+Connected R203 pin 2 to GND.
+Updated C202 sheetfile to '../MoP_CAN.kicad_sch'.
+Added R402 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R402.
+Changed R402 value from R_0805_2012Metric to 332.
+Updated R402 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/2371efae-e387-4dd6-bccb-3fe7486e54d3.
+Updated R402 fields.
+Updated R402 sheetname to 'DC_Motors'.
+Updated R402 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated R402 footprint filters to 'R_*'.
+Connected R402 pin 2 to /DC_Motors/VLED1.
+Connected R402 pin 1 to /DC_Motors/5V.
+Updated C202 footprint filters to 'C_*'.
+Added R403 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R403.
+Changed R403 value from R_0805_2012Metric to 10k.
+Updated R403 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/340c6371-327e-496c-8db7-b5a92a931425.
+Updated R403 fields.
+Updated R403 sheetname to 'DC_Motors'.
+Updated R403 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated R403 footprint filters to 'R_*'.
+Connected R403 pin 2 to /DC_Motors/SIG1.
+Connected R403 pin 1 to /DC_Motors/5V.
+Add net Net-(JP201-B).
+Added R404 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R404.
+Changed R404 value from R_0805_2012Metric to 332.
+Updated R404 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/a540decc-7fd0-4678-bd09-f516a2780f96.
+Updated R404 fields.
+Updated R404 sheetname to 'DC_Motors'.
+Updated R404 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated R404 footprint filters to 'R_*'.
+Connected R404 pin 1 to /DC_Motors/5V.
+Connected R404 pin 2 to /DC_Motors/VLED2.
+Connected C202 pin 1 to Net-(JP201-B).
+Added R405 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R405.
+Changed R405 value from R_0805_2012Metric to 10k.
+Updated R405 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/bf0d0293-512a-435b-a349-3adcd393464c.
+Updated R405 fields.
+Updated R405 sheetname to 'DC_Motors'.
+Updated R405 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated R405 footprint filters to 'R_*'.
+Connected R405 pin 1 to /DC_Motors/5V.
+Connected R405 pin 2 to /DC_Motors/SIG2.
+Connected C202 pin 2 to GND.
+Added R502 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R502.
+Changed R502 value from R_0805_2012Metric to 10k.
+Updated R502 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/2836869b-b62c-4247-b453-a0059da4e7fb.
+Updated R502 fields.
+Updated R502 sheetname to 'Gimble'.
+Updated R502 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated R502 footprint filters to 'R_*'.
+Connected R502 pin 1 to /Gimble/VCC.
+Connected R502 pin 2 to Net-(J501-Pin_2).
+Added C301 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Added R503 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R503.
+Changed R503 value from R_0805_2012Metric to 100.
+Updated R503 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/a4ddb1cf-607b-49b0-a633-c8197c2abbd7.
+Updated R503 fields.
+Updated R503 sheetname to 'Gimble'.
+Updated R503 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated R503 footprint filters to 'R_*'.
+Connected R503 pin 1 to Net-(J501-Pin_2).
+Connected R503 pin 2 to Net-(C501-Pad1).
+Changed REF** reference designator to C301.
+Added R504 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R504.
+Changed R504 value from R_0805_2012Metric to 10k.
+Updated R504 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/66c63595-f48b-4244-a5a1-b2a49e3dd650.
+Updated R504 fields.
+Updated R504 sheetname to 'Gimble'.
+Updated R504 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated R504 footprint filters to 'R_*'.
+Connected R504 pin 1 to /Gimble/VCC.
+Connected R504 pin 2 to Net-(J405-Pin_2).
+Changed C301 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Added R505 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R505.
+Changed R505 value from R_0805_2012Metric to 100.
+Updated R505 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/c8671fe1-ee0b-4ccc-8e8c-c2aaca2b1156.
+Updated R505 fields.
+Updated R505 sheetname to 'Gimble'.
+Updated R505 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated R505 footprint filters to 'R_*'.
+Connected R505 pin 1 to Net-(J405-Pin_2).
+Connected R505 pin 2 to Net-(C502-Pad1).
+Updated C301 symbol association from  to /5a038cf7-6217-4458-9ae0-abd285dad4a8/7bef9027-d6bc-4fcb-89a2-261c7478beae.
+Added R801 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R801.
+Changed R801 value from R_0805_2012Metric to 0.
+Updated R801 symbol association from  to /99163bcd-f204-4e6d-aa95-ab00d27e8f54/20bf47a6-c500-4452-8921-85e5d2a493de.
+Updated R801 fields.
+Updated R801 sheetname to 'MoP_LCD'.
+Updated R801 sheetfile to '../MoP_LCD.kicad_sch'.
+Updated R801 footprint filters to 'R_*'.
+Connected R801 pin 2 to /MoP_LCD/5V.
+Connected R801 pin 1 to R5V.
+Updated C301 fields.
+Added R1003 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R1003.
+Changed R1003 value from R_0805_2012Metric to 5.1k.
+Updated R1003 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/35a38b05-ad58-46ea-948f-83c10f0da6b0.
+Updated R1003 fields.
+Updated R1003 sheetname to 'USB-C'.
+Updated R1003 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated R1003 footprint filters to 'R_*'.
+Connected R1003 pin 2 to GND.
+Connected R1003 pin 1 to /USB-C/CC2.
+Updated C301 sheetname to 'DAC_ADC'.
+Added R1004 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R1004.
+Changed R1004 value from R_0805_2012Metric to 5.1k.
+Updated R1004 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/67494852-67b2-44f7-9daf-4d67edc826d7.
+Updated R1004 fields.
+Updated R1004 sheetname to 'USB-C'.
+Updated R1004 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated R1004 footprint filters to 'R_*'.
+Connected R1004 pin 1 to /USB-C/CC1.
+Connected R1004 pin 2 to GND.
+Updated C301 sheetfile to '../MoP_DAC_ADC.kicad_sch'.
+Added R1005 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R1005.
+Changed R1005 value from R_0805_2012Metric to 470.
+Updated R1005 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/a4952a70-9a14-4dd5-ad3e-11eaebbca350.
+Updated R1005 fields.
+Updated R1005 sheetname to 'USB-C'.
+Updated R1005 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated R1005 footprint filters to 'R_*'.
+Connected R1005 pin 2 to /USB-C/3V3.
+Connected R1005 pin 1 to Net-(D1001-A).
+Updated C301 footprint filters to 'C_*'.
+Added R1006 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R1006.
+Changed R1006 value from R_0805_2012Metric to 470.
+Updated R1006 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/6b52ff16-6785-48f9-bd39-df0c6ae2c120.
+Updated R1006 fields.
+Updated R1006 sheetname to 'USB-C'.
+Updated R1006 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated R1006 footprint filters to 'R_*'.
+Connected R1006 pin 1 to Net-(D1002-A).
+Connected R1006 pin 2 to /USB-C/3V3.
+Add net /DAC_ADC/VDD.
+Added U4 (footprint 'Package_DIP:DIP-16_W7.62mm_Socket_LongPads').
+Changed REF** reference designator to U4.
+Changed U4 value from DIP-16_W7.62mm_Socket_LongPads to L293D.
+Updated U4 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/bedbbd53-f78b-4105-826c-9deff7c86b1b.
+Updated U4 fields.
+Updated U4 sheetname to 'DC_Motors'.
+Updated U4 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated U4 footprint filters to 'DIP*W7.62mm*'.
+Connected U4 pin 4 to GND.
+Connected U4 pin 2 to /DC_Motors/LDCM.1.
+Connected U4 pin 14 to /DC_Motors/RDCM_Y2.
+Connected U4 pin 1 to /DC_Motors/LDCM.EN.
+Connected U4 pin 15 to /DC_Motors/RDCM.2.
+Connected U4 pin 11 to /DC_Motors/RDCM_Y1.
+Connected U4 pin 16 to /DC_Motors/VS.
+Add net /DC_Motors/LDCM2.
+Connected U4 pin 7 to /DC_Motors/LDCM2.
+Connected U4 pin 8 to /DC_Motors/VS.
+Connected U4 pin 6 to /DC_Motors/LDCM_Y2.
+Connected U4 pin 13 to GND.
+Connected U4 pin 5 to GND.
+Connected U4 pin 3 to /DC_Motors/LDCM_Y1.
+Connected U4 pin 12 to GND.
+Connected U4 pin 10 to /DC_Motors/RDCM.1.
+Connected U4 pin 9 to /DC_Motors/RDCM.EN.
+Connected C301 pin 1 to /DAC_ADC/VDD.
+Added U201 (footprint 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm').
+Changed REF** reference designator to U201.
+Changed U201 value from SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm to MCP2542FDxMF.
+Updated U201 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/8cea5f70-c036-4efc-bf56-a2c7a87f92ca.
+Updated U201 fields.
+Updated U201 sheetname to 'CAN'.
+Updated U201 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated U201 footprint filters to 'DFN*1EP*3x3mm*P0.65mm*'.
+Add net /CAN/STBY.
+Connected U201 pin 8 to /CAN/STBY.
+Connected U201 pin 6 to /CAN/CANL.
+Add net /CAN/Rx.
+Connected U201 pin 4 to /CAN/Rx.
+Add net /CAN/Tx.
+Connected U201 pin 1 to /CAN/Tx.
+Connected U201 pin 7 to /CAN/CANH.
+Connected U201 pin 5 to Net-(JP202-B).
+Connected U201 pin 2 to GND.
+Connected U201 pin 3 to Net-(JP201-B).
+Connected U201 pin 9 to GND.
+Connected C301 pin 2 to GND.
+Added U202 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U202.
+Changed U202 value from SOT-23-6 to 74LVC2G14.
+Updated U202 symbol association from  to /2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f/cafcf4eb-9631-452f-8a81-93b1106f90cf.
+Updated U202 fields.
+Updated U202 sheetname to 'CAN'.
+Updated U202 sheetfile to '../MoP_CAN.kicad_sch'.
+Updated U202 footprint filters to 'SG-* SOT*'.
+Connected U202 pin 2 to GND.
+Connected U202 pin 1 to /CAN/Rx.
+Connected U202 pin 5 to Net-(JP201-B).
+Connected U202 pin 6 to Net-(D201-A).
+Connected U202 pin 4 to Net-(D202-A).
+Connected U202 pin 3 to /CAN/Tx.
+Added C302 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Added U301 (footprint 'Package_SO:TSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U301.
+Changed U301 value from TSSOP-10_3x3mm_P0.5mm to ADS1015IDGS.
+Updated U301 symbol association from  to /5a038cf7-6217-4458-9ae0-abd285dad4a8/6fc3f8c7-e4fd-406a-b0b4-e14f57626585.
+Updated U301 fields.
+Updated U301 sheetname to 'DAC_ADC'.
+Updated U301 sheetfile to '../MoP_DAC_ADC.kicad_sch'.
+Updated U301 footprint filters to 'TSSOP*3x3mm*P0.5mm*'.
+Connected U301 pin 3 to GND.
+Add net unconnected-(U301-ALERT/RDY-Pad2).
+Connected U301 pin 2 to unconnected-(U301-ALERT/RDY-Pad2).
+Add net /DAC_ADC/AIN0.
+Connected U301 pin 4 to /DAC_ADC/AIN0.
+Connected U301 pin 10 to /DAC_ADC/I2C.SCL.
+Connected U301 pin 9 to /DAC_ADC/I2C.SDA.
+Add net /DAC_ADC/AIN1.
+Connected U301 pin 5 to /DAC_ADC/AIN1.
+Connected U301 pin 1 to GND.
+Add net /DAC_ADC/AIN2.
+Connected U301 pin 6 to /DAC_ADC/AIN2.
+Connected U301 pin 8 to /DAC_ADC/VDD.
+Add net /DAC_ADC/AIN3.
+Connected U301 pin 7 to /DAC_ADC/AIN3.
+Changed REF** reference designator to C302.
+Added U302 (footprint 'Package_SO:TSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U302.
+Changed U302 value from TSSOP-10_3x3mm_P0.5mm to ADS1015IDGS.
+Updated U302 symbol association from  to /5a038cf7-6217-4458-9ae0-abd285dad4a8/89879fd2-7756-4718-82f9-d7f3ca1e342d.
+Updated U302 fields.
+Updated U302 sheetname to 'DAC_ADC'.
+Updated U302 sheetfile to '../MoP_DAC_ADC.kicad_sch'.
+Updated U302 footprint filters to 'TSSOP*3x3mm*P0.5mm*'.
+Connected U302 pin 1 to GND.
+Add net unconnected-(U302-ALERT/RDY-Pad2).
+Connected U302 pin 2 to unconnected-(U302-ALERT/RDY-Pad2).
+Add net /DAC_ADC/AIN7.
+Connected U302 pin 7 to /DAC_ADC/AIN7.
+Add net /DAC_ADC/AIN5.
+Connected U302 pin 5 to /DAC_ADC/AIN5.
+Connected U302 pin 10 to /DAC_ADC/I2C.SCL.
+Add net /DAC_ADC/AIN6.
+Connected U302 pin 6 to /DAC_ADC/AIN6.
+Connected U302 pin 8 to /DAC_ADC/VDD.
+Connected U302 pin 9 to /DAC_ADC/I2C.SDA.
+Add net /DAC_ADC/AIN4.
+Connected U302 pin 4 to /DAC_ADC/AIN4.
+Connected U302 pin 3 to GND.
+Changed C302 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1u.
+Added U401 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U401.
+Changed U401 value from SOT-23-6 to 74LVC2G14.
+Updated U401 symbol association from  to /578bc2cd-0ce2-4797-8442-5502acdcc38b/5634b1a6-beb3-4457-872c-4fd7d683a1b6.
+Updated U401 fields.
+Updated U401 sheetname to 'DC_Motors'.
+Updated U401 sheetfile to '../MoP_DC_Motors.kicad_sch'.
+Updated U401 footprint filters to 'SG-* SOT*'.
+Connected U401 pin 6 to /DC_Motors/ENC.L.
+Connected U401 pin 1 to /DC_Motors/SIG1.
+Connected U401 pin 2 to GND.
+Connected U401 pin 3 to /DC_Motors/SIG2.
+Connected U401 pin 4 to /DC_Motors/ENC.L.
+Connected U401 pin 5 to /DC_Motors/5V.
+Updated C302 symbol association from  to /5a038cf7-6217-4458-9ae0-abd285dad4a8/f046deef-2b82-4f60-9087-ccd5b1f2596f.
+Added U501 (footprint 'Package_SO:SO-20_12.8x7.5mm_P1.27mm').
+Changed REF** reference designator to U501.
+Changed U501 value from SO-20_12.8x7.5mm_P1.27mm to L293D.
+Updated U501 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/601500ca-2522-4ec3-b54d-a18ee2efae14.
+Updated U501 fields.
+Updated U501 sheetname to 'Gimble'.
+Updated U501 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated U501 footprint filters to 'DIP*W7.62mm*'.
+Connected U501 pin 6 to /Gimble/C1b.
+Connected U501 pin 3 to /Gimble/C1a.
+Connected U501 pin 12 to GND.
+Connected U501 pin 8 to /Gimble/VCC.
+Connected U501 pin 1 to /Gimble/VCC.
+Connected U501 pin 9 to /Gimble/VCC.
+Connected U501 pin 2 to /Gimble/Stepper0.
+Connected U501 pin 10 to /Gimble/Stepper2.
+Connected U501 pin 14 to /Gimble/C2b.
+Connected U501 pin 7 to /Gimble/Stepper1.
+Connected U501 pin 15 to /Gimble/Stepper3.
+Connected U501 pin 16 to /Gimble/VCC.
+Connected U501 pin 4 to GND.
+Connected U501 pin 5 to GND.
+Connected U501 pin 11 to /Gimble/C2a.
+Connected U501 pin 13 to GND.
+Updated C302 fields.
+Added U502 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U502.
+Changed U502 value from SOT-23-6 to 74LVC2G14.
+Updated U502 symbol association from  to /9c2f8a64-b4fe-4853-9562-1e118ef082ba/2f8120b3-6a1b-405d-acf0-13421b12b0cb.
+Updated U502 fields.
+Updated U502 sheetname to 'Gimble'.
+Updated U502 sheetfile to '../MoP_Gimble.kicad_sch'.
+Updated U502 footprint filters to 'SG-* SOT*'.
+Connected U502 pin 6 to /Gimble/LMT.L.
+Connected U502 pin 5 to /Gimble/VCC.
+Connected U502 pin 4 to /Gimble/LMT.R.
+Connected U502 pin 2 to GND.
+Connected U502 pin 3 to Net-(C502-Pad1).
+Connected U502 pin 1 to Net-(C501-Pad1).
+Updated C302 sheetname to 'DAC_ADC'.
+Added U601 (footprint 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm').
+Changed REF** reference designator to U601.
+Changed U601 value from SSOP-28_5.3x10.2mm_P0.65mm to MCP23S17_SS.
+Updated U601 symbol association from  to /1acad438-9ac5-47a5-8378-e41ea0c2add8/caee1f30-3031-403b-90c3-8bb042238cc9.
+Updated U601 fields.
+Updated U601 sheetname to 'MCU'.
+Updated U601 sheetfile to '../MoP_MCU.kicad_sch'.
+Updated U601 footprint filters to 'SSOP*5.3x10.2mm*P0.65mm*'.
+Connected U601 pin 19 to /MCU/INT.
+Add net /MCU/GPIO14.
+Connected U601 pin 26 to /MCU/GPIO14.
+Connected U601 pin 11 to /MCU/SPI.CS.
+Add net /MCU/GPIO10.
+Connected U601 pin 22 to /MCU/GPIO10.
+Add net /MCU/GPIO6.
+Connected U601 pin 7 to /MCU/GPIO6.
+Connected U601 pin 14 to /MCU/SPI.MISO.
+Connected U601 pin 9 to R5V.
+Add net /MCU/GPIO11.
+Connected U601 pin 23 to /MCU/GPIO11.
+Add net /MCU/GPIO15.
+Connected U601 pin 27 to /MCU/GPIO15.
+Connected U601 pin 10 to GND.
+Connected U601 pin 20 to /MCU/INT.
+Add net /MCU/GPIO13.
+Connected U601 pin 25 to /MCU/GPIO13.
+Add net /MCU/GPIO1.
+Connected U601 pin 2 to /MCU/GPIO1.
+Add net /MCU/GPIO0.
+Connected U601 pin 1 to /MCU/GPIO0.
+Add net /MCU/GPIO5.
+Connected U601 pin 6 to /MCU/GPIO5.
+Add net /MCU/GPIO16.
+Connected U601 pin 28 to /MCU/GPIO16.
+Add net /MCU/GPIO7.
+Connected U601 pin 8 to /MCU/GPIO7.
+Connected U601 pin 16 to GND.
+Add net /MCU/GPIO8.
+Connected U601 pin 21 to /MCU/GPIO8.
+Connected U601 pin 15 to GND.
+Connected U601 pin 18 to GND.
+Connected U601 pin 17 to GND.
+Add net /MCU/GPIO12.
+Connected U601 pin 24 to /MCU/GPIO12.
+Add net /MCU/GPIO4.
+Connected U601 pin 5 to /MCU/GPIO4.
+Add net /MCU/SPI.CLK.
+Connected U601 pin 12 to /MCU/SPI.CLK.
+Add net /MCU/GPIO3.
+Connected U601 pin 4 to /MCU/GPIO3.
+Add net /MCU/GPIO2.
+Connected U601 pin 3 to /MCU/GPIO2.
+Connected U601 pin 13 to /MCU/SPI.MOSI.
+Updated C302 sheetfile to '../MoP_DAC_ADC.kicad_sch'.
+Added U1001 (footprint 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm').
+Changed REF** reference designator to U1001.
+Changed U1001 value from SSOP-16_3.9x4.9mm_P0.635mm to FT230XS.
+Updated U1001 symbol association from  to /6a65851d-78bc-4f90-bc40-f85ce185b9c5/8b04ee20-a270-4b19-a9a1-cb4a1bdd597c.
+Updated U1001 fields.
+Updated U1001 sheetname to 'USB-C'.
+Updated U1001 sheetfile to '../MoP_USB-C.kicad_sch'.
+Updated U1001 footprint filters to 'SSOP*3.9x4.9*P0.635mm*'.
+Add net unconnected-(U1001-CBUS2-Pad7).
+Connected U1001 pin 7 to unconnected-(U1001-CBUS2-Pad7).
+Add net /MCU/UART3.Tx.
+Connected U1001 pin 1 to /MCU/UART3.Tx.
+Connected U1001 pin 13 to GND.
+Add net unconnected-(U1001-~{CTS}-Pad6).
+Connected U1001 pin 6 to unconnected-(U1001-~{CTS}-Pad6).
+Connected U1001 pin 9 to /USB-C/DP.
+Add net unconnected-(U1001-~{RTS}-Pad2).
+Connected U1001 pin 2 to unconnected-(U1001-~{RTS}-Pad2).
+Connected U1001 pin 12 to /USB-C/5V.
+Connected U1001 pin 11 to /USB-C/3V3.
+Connected U1001 pin 14 to Net-(D1002-K).
+Connected U1001 pin 15 to Net-(D1001-K).
+Add net unconnected-(U1001-3V3OUT-Pad10).
+Connected U1001 pin 10 to unconnected-(U1001-3V3OUT-Pad10).
+Connected U1001 pin 5 to GND.
+Connected U1001 pin 8 to /USB-C/DN.
+Connected U1001 pin 4 to /MCU/UART3.Rx.
+Connected U1001 pin 3 to /USB-C/3V3.
+Add net unconnected-(U1001-CBUS3-Pad16).
+Connected U1001 pin 16 to unconnected-(U1001-CBUS3-Pad16).
+Warning: No net found for component U501 pad 20 (no pin 20 in symbol).
+Warning: No net found for component U501 pad 18 (no pin 18 in symbol).
+Warning: No net found for component U501 pad 19 (no pin 19 in symbol).
+Warning: No net found for component U501 pad 17 (no pin 17 in symbol).
+Error: Cannot add J301 (no footprint assigned).
+Error: J701 pad 39 not found in Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical.
+Error: J701 pad 40 not found in Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical.
+Error: J701 pad 41 not found in Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical.
+Error: J701 pad 42 not found in Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical.
+Error: J701 pad 43 not found in Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical.
+Error: J701 pad 44 not found in Connector_PinHeader_1.00mm:PinHeader_2x19_P1.00mm_Vertical.
+
+
+Info: Total warnings: 4, errors: 7.

@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.2,
+          "height": 5.6,
+          "width": 5.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -450,9 +450,9 @@
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "error",
+      "pin_not_driven": "warning",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "warning",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
       "unannotated": "error",
@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EPS.kicad_pro",
+    "filename": "OBC.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -501,14 +501,14 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../DFM/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "C:/Users/sincn/OneDrive - Conestoga College/KiCad/templates/ESE.kicad_wks"
+    "page_layout_descr_file": ""
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -611,12 +611,44 @@
   },
   "sheets": [
     [
-      "52a913a9-260a-4c5e-b5a1-a816986dad8b",
+      "4fa4f4fb-851d-4975-b789-eb7f900188ea",
       "Root"
     ],
     [
-      "5cd66744-0e0f-4557-a5ae-c2f7d71d60a3",
-      "Power Regulators"
+      "2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f",
+      "CAN"
+    ],
+    [
+      "5a038cf7-6217-4458-9ae0-abd285dad4a8",
+      "DAC_ADC"
+    ],
+    [
+      "578bc2cd-0ce2-4797-8442-5502acdcc38b",
+      "DC_Motors"
+    ],
+    [
+      "9c2f8a64-b4fe-4853-9562-1e118ef082ba",
+      "Gimble"
+    ],
+    [
+      "1acad438-9ac5-47a5-8378-e41ea0c2add8",
+      "MCU"
+    ],
+    [
+      "6329eb5a-4341-4960-b0c2-1f932b101e51",
+      "MoP_Connectors"
+    ],
+    [
+      "99163bcd-f204-4e6d-aa95-ab00d27e8f54",
+      "MoP_LCD"
+    ],
+    [
+      "ac3f278b-d235-4891-b209-9445f8633f0b",
+      "Sensors"
+    ],
+    [
+      "6a65851d-78bc-4f90-bc40-f85ce185b9c5",
+      "USB-C"
     ]
   ],
   "text_variables": {}

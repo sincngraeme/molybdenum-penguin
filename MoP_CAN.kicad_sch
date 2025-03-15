@@ -1232,126 +1232,6 @@
 				)
 			)
 		)
-		(symbol "power:+3V3"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+3V3"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+3V3\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+3V3_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+3V3_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers hide)
@@ -2467,8 +2347,8 @@
 		)
 		(uuid "69499175-545d-4eab-8ac1-a401b05e1b99")
 	)
-	(label "STBY"
-		(at 77.47 77.47 180)
+	(label "CAN.STBY"
+		(at 81.28 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2489,8 +2369,8 @@
 		)
 		(uuid "9523bc1a-190b-4307-9ebe-8e77a424bca0")
 	)
-	(label "Tx"
-		(at 74.93 67.31 180)
+	(label "CAN.Tx"
+		(at 78.74 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2500,8 +2380,8 @@
 		)
 		(uuid "d1559475-9001-4678-bd0c-889a99abf4fe")
 	)
-	(label "Rx"
-		(at 74.93 69.85 180)
+	(label "CAN.Rx"
+		(at 78.74 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2644,6 +2524,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "JP202")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2768,6 +2654,12 @@
 					(unit 1)
 				)
 			)
+			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "C202")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2885,6 +2777,12 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
+					(reference "R702")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
 					(reference "R702")
 					(unit 1)
 				)
@@ -3011,6 +2909,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "D202")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3129,6 +3033,12 @@
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
 					(reference "R604")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -3255,6 +3165,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "JP201")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3374,6 +3290,78 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
 					(reference "D601")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "D201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 71.12 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76890731-14e7-488e-8ff5-aebe8b795755")
+		(property "Reference" "#PWR0201"
+			(at 71.12 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R3V3"
+			(at 71.12 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 71.12 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c4f4d8a-9409-46a8-ae75-fbf609d39856")
+		)
+		(instances
+			(project "OBC"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -3498,6 +3486,12 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
 					(reference "C601")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -3647,6 +3641,12 @@
 					(unit 1)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "U201")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3658,8 +3658,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a5c7d783-3d60-49b9-93ea-fe58b9b71761")
-		(property "Reference" "#PWR024"
+		(uuid "91159823-064b-416a-a1d1-4084969d0953")
+		(property "Reference" "#PWR0202"
 			(at 77.47 45.72 0)
 			(effects
 				(font
@@ -3704,12 +3704,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "cca60163-d4c4-4f68-b9f7-a38350348e24")
+			(uuid "9203275b-a815-407c-ad90-8cd415a90f14")
 		)
 		(instances
-			(project ""
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
-					(reference "#PWR024")
+			(project "OBC"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -3834,6 +3834,12 @@
 					(unit 1)
 				)
 			)
+			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "R203")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3955,6 +3961,12 @@
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
 					(reference "J601")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "J201")
 					(unit 1)
 				)
 			)
@@ -4092,70 +4104,10 @@
 					(unit 2)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 71.12 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bc0c4e4e-988e-479d-b98a-9026ff594c9f")
-		(property "Reference" "#PWR025"
-			(at 71.12 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "R3V3"
-			(at 71.12 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 71.12 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d5dd611f-6987-4693-b575-22e7704c0fce")
-		)
-		(instances
-			(project ""
-				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
-					(reference "#PWR025")
-					(unit 1)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "U202")
+					(unit 2)
 				)
 			)
 		)
@@ -4220,6 +4172,12 @@
 		(instances
 			(project ""
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
 					(reference "#PWR07")
 					(unit 1)
 				)
@@ -4341,6 +4299,12 @@
 		(instances
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
+					(reference "R701")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
 					(reference "R701")
 					(unit 1)
 				)
@@ -4476,6 +4440,12 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
 					(reference "U602")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "U202")
 					(unit 1)
 				)
 			)
@@ -4615,6 +4585,12 @@
 					(unit 3)
 				)
 			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "U202")
+					(unit 3)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4736,6 +4712,12 @@
 			(project "MoP"
 				(path "/4d76798e-9a11-4d8d-a723-72f274a89091/25fbd90b-9dc8-4814-b6c9-7fb5a2a8a262"
 					(reference "R603")
+					(unit 1)
+				)
+			)
+			(project "MoP"
+				(path "/4fa4f4fb-851d-4975-b789-eb7f900188ea/2f2cb406-bfa1-4a41-902f-a9f1d7d0ee7f"
+					(reference "R201")
 					(unit 1)
 				)
 			)
